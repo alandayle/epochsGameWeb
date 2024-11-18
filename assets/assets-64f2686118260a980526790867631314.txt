@@ -1,0 +1,438 @@
+rawFiles/Military Concerns/card12Dialogue4.1.png
+rawFiles/Military Concerns/card15Dialogue4.2.png
+rawFiles/Military Concerns/card13Dialogue2.2.png
+rawFiles/Military Concerns/card14Dialogue2.1.png
+rawFiles/Military Concerns/card12Dialogue4.2.png
+rawFiles/Military Concerns/card15Dialogue4.1.png
+rawFiles/Military Concerns/card13Dialogue2.1.png
+rawFiles/Military Concerns/card14Dialogue2.2.png
+rawFiles/Military Concerns/card15Dialogue2.2.png
+rawFiles/Military Concerns/card12Dialogue2.1.png
+rawFiles/Military Concerns/card14Dialogue4.1.png
+rawFiles/Military Concerns/card13Dialogue4.2.png
+rawFiles/Military Concerns/card15Dialogue2.1.png
+rawFiles/Military Concerns/card12Dialogue2.2.png
+rawFiles/Military Concerns/card14Dialogue4.2.png
+rawFiles/Military Concerns/card13Dialogue4.1.png
+rawFiles/Military Concerns/card14Dialogue1.1.png
+rawFiles/Military Concerns/card13Dialogue1.2.png
+rawFiles/Military Concerns/card14Dialogue3.2.png
+rawFiles/Military Concerns/card13Dialogue3.1.png
+rawFiles/Military Concerns/card14Dialogue1.2.png
+rawFiles/Military Concerns/card13Dialogue1.1.png
+rawFiles/Military Concerns/card14Dialogue3.1.png
+rawFiles/Military Concerns/card13Dialogue3.2.png
+rawFiles/Military Concerns/card12Dialogue3.2.png
+rawFiles/Military Concerns/card15Dialogue3.1.png
+rawFiles/Military Concerns/card12Dialogue1.1.png
+rawFiles/Military Concerns/card15Dialogue1.2.png
+rawFiles/Military Concerns/card12Dialogue3.1.png
+rawFiles/Military Concerns/card15Dialogue3.2.png
+rawFiles/Military Concerns/card12Dialogue1.2.png
+rawFiles/Military Concerns/card15Dialogue1.1.png
+rawFiles/dialogues/no.png
+rawFiles/dialogues/yes.png
+rawFiles/Technological Concerns/card4Dialogue3.1.png
+rawFiles/Technological Concerns/card7Dialogue2.2.png
+rawFiles/Technological Concerns/card4Dialogue1.2.png
+rawFiles/Technological Concerns/card5Dialogue5.2.png
+rawFiles/Technological Concerns/card4Dialogue3.2.png
+rawFiles/Technological Concerns/card7Dialogue2.1.png
+rawFiles/Technological Concerns/card4Dialogue1.1.png
+rawFiles/Technological Concerns/card5Dialogue5.1.png
+rawFiles/Technological Concerns/card6Dialogue2.1.png
+rawFiles/Technological Concerns/card4Dialogue5.1.png
+rawFiles/Technological Concerns/card5Dialogue1.1.png
+rawFiles/Technological Concerns/card5Dialogue3.2.png
+rawFiles/Technological Concerns/card6Dialogue2.2.png
+rawFiles/Technological Concerns/card4Dialogue5.2.png
+rawFiles/Technological Concerns/card5Dialogue1.2.png
+rawFiles/Technological Concerns/card5Dialogue3.1.png
+rawFiles/Technological Concerns/card7Dialogue1.2.png
+rawFiles/Technological Concerns/card4Dialogue2.2.png
+rawFiles/Technological Concerns/card5Dialogue4.1.png
+rawFiles/Technological Concerns/card7Dialogue3.1.png
+rawFiles/Technological Concerns/card7Dialogue1.1.png
+rawFiles/Technological Concerns/card4Dialogue2.1.png
+rawFiles/Technological Concerns/card5Dialogue4.2.png
+rawFiles/Technological Concerns/card7Dialogue3.2.png
+rawFiles/Technological Concerns/card4Dialogue4.2.png
+rawFiles/Technological Concerns/card6Dialogue1.1.png
+rawFiles/Technological Concerns/card5Dialogue2.1.png
+rawFiles/Technological Concerns/card4Dialogue6.1.png
+rawFiles/Technological Concerns/card4Dialogue4.1.png
+rawFiles/Technological Concerns/card6Dialogue1.2.png
+rawFiles/Technological Concerns/card5Dialogue2.2.png
+rawFiles/Technological Concerns/card4Dialogue6.2.png
+rawFiles/EnvironmentalConcerns/E20.png
+rawFiles/EnvironmentalConcerns/E30.png
+rawFiles/EnvironmentalConcerns/E80.png
+rawFiles/EnvironmentalConcerns/E40.png
+rawFiles/EnvironmentalConcerns/E50.png
+rawFiles/EnvironmentalConcerns/E90.png
+rawFiles/EnvironmentalConcerns/E60.png
+rawFiles/EnvironmentalConcerns/E70.png
+rawFiles/EnvironmentalConcerns/E00.png
+rawFiles/EnvironmentalConcerns/E100.png
+rawFiles/EnvironmentalConcerns/E10.png
+rawFiles/Health Concerns/card18Dialogue1.2.png
+rawFiles/Health Concerns/card17Dialogue3.2.png
+rawFiles/Health Concerns/card16Dialogue7.2.png
+rawFiles/Health Concerns/card16Dialogue5.1.png
+rawFiles/Health Concerns/card17Dialogue1.1.png
+rawFiles/Health Concerns/card18Dialogue3.1.png
+rawFiles/Health Concerns/card18Dialogue1.1.png
+rawFiles/Health Concerns/card17Dialogue3.1.png
+rawFiles/Health Concerns/card16Dialogue7.1.png
+rawFiles/Health Concerns/card16Dialogue5.2.png
+rawFiles/Health Concerns/card17Dialogue1.2.png
+rawFiles/Health Concerns/card18Dialogue3.2.png
+rawFiles/Health Concerns/card16Dialogue1.2.png
+rawFiles/Health Concerns/card16Dialogue3.1.png
+rawFiles/Health Concerns/card16Dialogue1.1.png
+rawFiles/Health Concerns/card16Dialogue3.2.png
+rawFiles/Health Concerns/card17Dialogue2.1.png
+rawFiles/Health Concerns/card16Dialogue6.1.png
+rawFiles/Health Concerns/card16Dialogue4.2.png
+rawFiles/Health Concerns/card18Dialogue2.2.png
+rawFiles/Health Concerns/card17Dialogue2.2.png
+rawFiles/Health Concerns/card16Dialogue6.2.png
+rawFiles/Health Concerns/card16Dialogue4.1.png
+rawFiles/Health Concerns/card18Dialogue2.1.png
+rawFiles/Health Concerns/card17Dialogue4.1.png
+rawFiles/Health Concerns/card16Dialogue2.2.png
+rawFiles/Health Concerns/card18Dialogue4.2.png
+rawFiles/Health Concerns/card17Dialogue4.2.png
+rawFiles/Health Concerns/card16Dialogue2.1.png
+rawFiles/Health Concerns/card18Dialogue4.1.png
+rawFiles/Health Concerns/card16Dialogue8.1.png
+rawFiles/Health Concerns/card16Dialogue8.2.png
+rawFiles/foreground/fg2.png
+rawFiles/foreground/fg3.png
+rawFiles/foreground/fg1.png
+rawFiles/foreground/fg4.png
+rawFiles/foreground/fg5.png
+rawFiles/foreground/fg7.png
+rawFiles/foreground/fg6.png
+rawFiles/guideDialogues/card0Dialogue2.1.png
+rawFiles/guideDialogues/card0Dialogue2.2.png
+rawFiles/guideDialogues/card0Dialogue4.1.png
+rawFiles/guideDialogues/card19Dialogue1.1.png
+rawFiles/guideDialogues/card0Dialogue4.2.png
+rawFiles/guideDialogues/card19Dialogue1.2.png
+rawFiles/guideDialogues/card0Dialogue1.1.png
+rawFiles/guideDialogues/card0Dialogue3.2.png
+rawFiles/guideDialogues/card0Dialogue1.2.png
+rawFiles/guideDialogues/card0Dialogue3.1.png
+rawFiles/guideDialogues/card0Dialogue5.2.png
+rawFiles/guideDialogues/card0Dialogue5.1.png
+rawFiles/cards/npcCard16.png
+rawFiles/cards/npcCard8.png
+rawFiles/cards/npcCard9.png
+rawFiles/cards/npcCard17.png
+rawFiles/cards/npcCard15.png
+rawFiles/cards/npcCard14.png
+rawFiles/cards/npcCard10.png
+rawFiles/cards/guide(sad).png
+rawFiles/cards/npcCard11.png
+rawFiles/cards/npcCard13.png
+rawFiles/cards/npcCard12.png
+rawFiles/cards/locked.png
+rawFiles/cards/backCardTesting.jpg
+rawFiles/cards/npcCard1.png
+rawFiles/cards/npcCard20.png
+rawFiles/cards/npcCard2.png
+rawFiles/cards/npcCard3.png
+rawFiles/cards/npcCard19.png
+rawFiles/cards/npcCard7.png
+rawFiles/cards/npcCard6.png
+rawFiles/cards/npcCard18.png
+rawFiles/cards/back.png
+rawFiles/cards/npcCard4.png
+rawFiles/cards/npcCard5.png
+rawFiles/gameBackgrounds/transitionBg.png
+rawFiles/gameBackgrounds/bg6.png
+rawFiles/gameBackgrounds/bg7.png
+rawFiles/gameBackgrounds/bg5.png
+rawFiles/gameBackgrounds/bg4.png
+rawFiles/gameBackgrounds/bg1.png
+rawFiles/gameBackgrounds/bg3.png
+rawFiles/gameBackgrounds/bg2.png
+rawFiles/settingsScreen/xButton.png
+rawFiles/settingsScreen/soundFx(disabled).png
+rawFiles/settingsScreen/music(enabled).png
+rawFiles/settingsScreen/soundFx(enabled).png
+rawFiles/settingsScreen/music(disabled).png
+rawFiles/Environmental Concerns/card3Dialogue3.2.png
+rawFiles/Environmental Concerns/card1Dialogue4.2.png
+rawFiles/Environmental Concerns/card2Dialogue5.1.png
+rawFiles/Environmental Concerns/card3Dialogue1.1.png
+rawFiles/Environmental Concerns/card3Dialogue3.1.png
+rawFiles/Environmental Concerns/card1Dialogue4.1.png
+rawFiles/Environmental Concerns/card2Dialogue5.2.png
+rawFiles/Environmental Concerns/card3Dialogue1.2.png
+rawFiles/Environmental Concerns/card1Dialogue2.2.png
+rawFiles/Environmental Concerns/card2Dialogue1.2.png
+rawFiles/Environmental Concerns/card3Dialogue5.2.png
+rawFiles/Environmental Concerns/card2Dialogue3.1.png
+rawFiles/Environmental Concerns/card1Dialogue2.1.png
+rawFiles/Environmental Concerns/card2Dialogue1.1.png
+rawFiles/Environmental Concerns/card3Dialogue5.1.png
+rawFiles/Environmental Concerns/card2Dialogue3.2.png
+rawFiles/Environmental Concerns/card1Dialogue5.1.png
+rawFiles/Environmental Concerns/card3Dialogue2.1.png
+rawFiles/Environmental Concerns/card2Dialogue4.2.png
+rawFiles/Environmental Concerns/card1Dialogue5.2.png
+rawFiles/Environmental Concerns/card3Dialogue2.2.png
+rawFiles/Environmental Concerns/card2Dialogue4.1.png
+rawFiles/Environmental Concerns/card3Dialogue4.1.png
+rawFiles/Environmental Concerns/card1Dialogue3.1.png
+rawFiles/Environmental Concerns/card1Dialogue1.2.png
+rawFiles/Environmental Concerns/card3Dialogue6.2.png
+rawFiles/Environmental Concerns/card2Dialogue2.2.png
+rawFiles/Environmental Concerns/card3Dialogue4.2.png
+rawFiles/Environmental Concerns/card1Dialogue3.2.png
+rawFiles/Environmental Concerns/card1Dialogue1.1.png
+rawFiles/Environmental Concerns/card3Dialogue6.1.png
+rawFiles/Environmental Concerns/card2Dialogue2.1.png
+rawFiles/endingScreens/healthcareEnding.png
+rawFiles/endingScreens/techEndingpng.png
+rawFiles/endingScreens/militaryEnding.png
+rawFiles/endingScreens/neutralEnding.png
+rawFiles/endingScreens/environmentalEnding.png
+rawFiles/endingScreens/culturalEnding.png
+rawFiles/endingScreens/badEnding.png
+rawFiles/CulturalConcerns/C30.png
+rawFiles/CulturalConcerns/C20.png
+rawFiles/CulturalConcerns/C50.png
+rawFiles/CulturalConcerns/C90.png
+rawFiles/CulturalConcerns/C80.png
+rawFiles/CulturalConcerns/C40.png
+rawFiles/CulturalConcerns/C70.png
+rawFiles/CulturalConcerns/C60.png
+rawFiles/CulturalConcerns/C100.png
+rawFiles/CulturalConcerns/C10.png
+rawFiles/CulturalConcerns/C00.png
+rawFiles/MilitaryConcerns/M00.png
+rawFiles/MilitaryConcerns/M10.png
+rawFiles/MilitaryConcerns/M60.png
+rawFiles/MilitaryConcerns/M70.png
+rawFiles/MilitaryConcerns/M100.png
+rawFiles/MilitaryConcerns/M80.png
+rawFiles/MilitaryConcerns/M40.png
+rawFiles/MilitaryConcerns/M50.png
+rawFiles/MilitaryConcerns/M90.png
+rawFiles/MilitaryConcerns/M20.png
+rawFiles/MilitaryConcerns/M30.png
+rawFiles/Cultural Concerns/card8Dialogue2.1.png
+rawFiles/Cultural Concerns/card10Dialogue3.1.png
+rawFiles/Cultural Concerns/card9Dialogue4.2.png
+rawFiles/Cultural Concerns/card10Dialogue1.2.png
+rawFiles/Cultural Concerns/card8Dialogue2.2.png
+rawFiles/Cultural Concerns/card10Dialogue3.2.png
+rawFiles/Cultural Concerns/card9Dialogue4.1.png
+rawFiles/Cultural Concerns/card10Dialogue1.1.png
+rawFiles/Cultural Concerns/card11Dialogue1.1.png
+rawFiles/Cultural Concerns/card8Dialogue4.1.png
+rawFiles/Cultural Concerns/card11Dialogue3.2.png
+rawFiles/Cultural Concerns/card9Dialogue2.2.png
+rawFiles/Cultural Concerns/card11Dialogue1.2.png
+rawFiles/Cultural Concerns/card8Dialogue4.2.png
+rawFiles/Cultural Concerns/card11Dialogue3.1.png
+rawFiles/Cultural Concerns/card9Dialogue2.1.png
+rawFiles/Cultural Concerns/card10Dialogue2.2.png
+rawFiles/Cultural Concerns/card8Dialogue3.2.png
+rawFiles/Cultural Concerns/card11Dialogue4.1.png
+rawFiles/Cultural Concerns/card8Dialogue1.1.png
+rawFiles/Cultural Concerns/card10Dialogue2.1.png
+rawFiles/Cultural Concerns/card8Dialogue3.1.png
+rawFiles/Cultural Concerns/card11Dialogue4.2.png
+rawFiles/Cultural Concerns/card8Dialogue1.2.png
+rawFiles/Cultural Concerns/card9Dialogue1.2.png
+rawFiles/Cultural Concerns/card10Dialogue4.2.png
+rawFiles/Cultural Concerns/card9Dialogue3.1.png
+rawFiles/Cultural Concerns/card11Dialogue2.1.png
+rawFiles/Cultural Concerns/card9Dialogue1.1.png
+rawFiles/Cultural Concerns/card10Dialogue4.1.png
+rawFiles/Cultural Concerns/card9Dialogue3.2.png
+rawFiles/Cultural Concerns/card11Dialogue2.2.png
+rawFiles/mainMenuScreen/about(unclicked).png
+rawFiles/mainMenuScreen/title.png
+rawFiles/mainMenuScreen/archives(clicked).png
+rawFiles/mainMenuScreen/progress-50%.png
+rawFiles/mainMenuScreen/dropMenu.png
+rawFiles/mainMenuScreen/settings(clicked).png
+rawFiles/mainMenuScreen/wearHeadphones(portrait).png
+rawFiles/mainMenuScreen/bars.png
+rawFiles/mainMenuScreen/logo.png
+rawFiles/mainMenuScreen/start(clicked).png
+rawFiles/mainMenuScreen/archives(unclicked).png
+rawFiles/mainMenuScreen/logo(portrait).png
+rawFiles/mainMenuScreen/about(clicked).png
+rawFiles/mainMenuScreen/settings(unclicked).png
+rawFiles/mainMenuScreen/start(unclicked).png
+rawFiles/mainMenuScreen/flare.png
+rawFiles/mainMenuScreen/mainBackground(portrait).png
+rawFiles/OverallProgress/O00.png
+rawFiles/OverallProgress/O10.png
+rawFiles/OverallProgress/O60.png
+rawFiles/OverallProgress/O70.png
+rawFiles/OverallProgress/O40.png
+rawFiles/OverallProgress/O80.png
+rawFiles/OverallProgress/O90.png
+rawFiles/OverallProgress/O100.png
+rawFiles/OverallProgress/O50.png
+rawFiles/OverallProgress/O20.png
+rawFiles/OverallProgress/O30.png
+rawFiles/TechnologicalConcerns/T100.png
+rawFiles/TechnologicalConcerns/T00.png
+rawFiles/TechnologicalConcerns/T10.png
+rawFiles/TechnologicalConcerns/T60.png
+rawFiles/TechnologicalConcerns/T70.png
+rawFiles/TechnologicalConcerns/T40.png
+rawFiles/TechnologicalConcerns/T80.png
+rawFiles/TechnologicalConcerns/T90.png
+rawFiles/TechnologicalConcerns/T50.png
+rawFiles/TechnologicalConcerns/T20.png
+rawFiles/TechnologicalConcerns/T30.png
+rawFiles/playingBgs/bg9.png
+rawFiles/playingBgs/bg8.png
+rawFiles/playingBgs/bg6.png
+rawFiles/playingBgs/bg7.png
+rawFiles/playingBgs/bg5.png
+rawFiles/playingBgs/bg4.png
+rawFiles/playingBgs/bg1.png
+rawFiles/playingBgs/bg3.png
+rawFiles/playingBgs/bg2.png
+rawFiles/HealthcareConcerns/H70.png
+rawFiles/HealthcareConcerns/H60.png
+rawFiles/HealthcareConcerns/H10.png
+rawFiles/HealthcareConcerns/H00.png
+rawFiles/HealthcareConcerns/H100.png
+rawFiles/HealthcareConcerns/H30.png
+rawFiles/HealthcareConcerns/H20.png
+rawFiles/HealthcareConcerns/H50.png
+rawFiles/HealthcareConcerns/H90.png
+rawFiles/HealthcareConcerns/H80.png
+rawFiles/HealthcareConcerns/H40.png
+rawFiles/loadingFrameImages/loading-10 (dragged).png
+rawFiles/loadingFrameImages/loading-2 (dragged).png
+rawFiles/loadingFrameImages/loading-29 (dragged).png
+rawFiles/loadingFrameImages/loading-14 (dragged).png
+rawFiles/loadingFrameImages/loading-6 (dragged).png
+rawFiles/loadingFrameImages/loading-13 (dragged).png
+rawFiles/loadingFrameImages/loading-1 (dragged).png
+rawFiles/loadingFrameImages/loading-17 (dragged).png
+rawFiles/loadingFrameImages/loading-5 (dragged).png
+rawFiles/loadingFrameImages/loading-24 (dragged).png
+rawFiles/loadingFrameImages/loading-33 (dragged).png
+rawFiles/loadingFrameImages/loading-19 (dragged).png
+rawFiles/loadingFrameImages/loading-20 (dragged).png
+rawFiles/loadingFrameImages/loading-30 (dragged).png
+rawFiles/loadingFrameImages/loading-27 (dragged).png
+rawFiles/loadingFrameImages/loading-23 (dragged).png
+rawFiles/loadingFrameImages/loading-8 (dragged).png
+rawFiles/loadingFrameImages/loading-34 (dragged).png
+rawFiles/loadingFrameImages/loading-9 (dragged).png
+rawFiles/loadingFrameImages/loading-35 (dragged).png
+rawFiles/loadingFrameImages/loading-22 (dragged).png
+rawFiles/loadingFrameImages/loading-26 (dragged).png
+rawFiles/loadingFrameImages/loading-31 (dragged).png
+rawFiles/loadingFrameImages/loading-21 (dragged).png
+rawFiles/loadingFrameImages/loading-36 (dragged).png
+rawFiles/loadingFrameImages/loading-18 (dragged).png
+rawFiles/loadingFrameImages/loading-32 (dragged).png
+rawFiles/loadingFrameImages/loading-25 (dragged).png
+rawFiles/loadingFrameImages/loading-4 (dragged).png
+rawFiles/loadingFrameImages/loading-16 (dragged).png
+rawFiles/loadingFrameImages/loading-12 (dragged).png
+rawFiles/loadingFrameImages/loading-7 (dragged).png
+rawFiles/loadingFrameImages/loading-15 (dragged).png
+rawFiles/loadingFrameImages/loading-28 (dragged).png
+rawFiles/loadingFrameImages/loading-3 (dragged).png
+rawFiles/loadingFrameImages/loading-11 (dragged).png
+skinComposer/Untitled.scmp
+audio/cultural.mp3
+audio/cardShuffle.mp3
+audio/bad.mp3
+audio/military.mp3
+audio/technology.mp3
+audio/environmental.mp3
+audio/cardSlide.mp3
+audio/background.mp3
+audio/yearCountSoundEffect.mp3
+audio/medicine.mp3
+audio/outro.mp3
+audio/tick.mp3
+audio/playing.mp3
+audio/neutral.mp3
+fonts/vcr.ttf
+fonts/Greenscr.ttf
+fonts/setbackt.ttf
+fonts/Dunkin.otf
+fonts/typewcond.otf
+archived/headphones.png
+archived/No.png
+archived/2065.png
+archived/welcome3.png
+archived/welcome2.png
+archived/sampleCard.png
+archived/logo.png
+archived/2025.png
+archived/yeah.png
+archived/mainBackground.png
+archived/epochsLogo.png
+archived/assets.txt
+archived/ew.png
+archived/mainLogo.png
+archived/2057.png
+archived/backCard.jpg
+archived/2053.png
+archived/2045.png
+archived/welcome.png
+packedTextures/medicineStatus.png
+packedTextures/technological.atlas
+packedTextures/mainBgsLogos.atlas
+packedTextures/mainBgsLogos.png
+packedTextures/settings.png
+packedTextures/health.png
+packedTextures/cultural.atlas
+packedTextures/endingScreen.png
+packedTextures/dialogues.atlas
+packedTextures/dialogues.png
+packedTextures/environmentalStatus.atlas
+packedTextures/playingBgs.png
+packedTextures/foreground.atlas
+packedTextures/playingBgs.atlas
+packedTextures/militaryStatus.png
+packedTextures/culturalStatus.atlas
+packedTextures/health.atlas
+packedTextures/gameBackgrounds.atlas
+packedTextures/medicineStatus.atlas
+packedTextures/technological.png
+packedTextures/military.atlas
+packedTextures/technologicalStatus.atlas
+packedTextures/overAllStatusImage.atlas
+packedTextures/cards.png
+packedTextures/guideDialogues.atlas
+packedTextures/environmental.png
+packedTextures/overAllStatusImage.png
+packedTextures/gameBackgrounds.png
+packedTextures/military.png
+packedTextures/cards.atlas
+packedTextures/technologicalStatus.png
+packedTextures/environmentalStatus.png
+packedTextures/endingScreen.atlas
+packedTextures/settings.atlas
+packedTextures/loading.atlas
+packedTextures/foreground.png
+packedTextures/cultural.png
+packedTextures/militaryStatus.atlas
+packedTextures/loading.png
+packedTextures/culturalStatus.png
+packedTextures/environmental.atlas
+packedTextures/guideDialogues.png
+uiExports/Greenscr(2).fnt
+uiExports/Untitled.png
+uiExports/Untitled.json
+uiExports/Untitled.atlas

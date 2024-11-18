@@ -1,0 +1,477 @@
+d:assets:assets:0:application/unknown:1
+d:rawFiles:rawFiles:0:application/unknown:1
+d:rawFiles/Military Concerns:rawFiles/Military Concerns:0:application/unknown:1
+i:rawFiles/Military Concerns/card12Dialogue4.1.png:rawFiles/Military Concerns/card12Dialogue4.1-aaac86d68b2897c3068908717b7533a5.png:10178:image/png:1
+i:rawFiles/Military Concerns/card15Dialogue4.2.png:rawFiles/Military Concerns/card15Dialogue4.2-eaa686fb2881e64d66a77afc6200f9fb.png:10884:image/png:1
+i:rawFiles/Military Concerns/card13Dialogue2.2.png:rawFiles/Military Concerns/card13Dialogue2.2-1fc3965c1b5255902da2053ef9fc9e41.png:10668:image/png:1
+i:rawFiles/Military Concerns/card14Dialogue2.1.png:rawFiles/Military Concerns/card14Dialogue2.1-0f15b8a59ed8446fdf0f90fc25ef2c06.png:10455:image/png:1
+i:rawFiles/Military Concerns/card12Dialogue4.2.png:rawFiles/Military Concerns/card12Dialogue4.2-6bdd396d33666e81d0b55d69e1d5cf8c.png:10521:image/png:1
+i:rawFiles/Military Concerns/card15Dialogue4.1.png:rawFiles/Military Concerns/card15Dialogue4.1-f73d0180a484e42af582c9a05c51d1c2.png:11820:image/png:1
+i:rawFiles/Military Concerns/card13Dialogue2.1.png:rawFiles/Military Concerns/card13Dialogue2.1-2e1ca20497dc880e67d5f1b325d8c0b4.png:10805:image/png:1
+i:rawFiles/Military Concerns/card14Dialogue2.2.png:rawFiles/Military Concerns/card14Dialogue2.2-078f2d5ec9a1b85a71bb2a4272142b54.png:10517:image/png:1
+i:rawFiles/Military Concerns/card15Dialogue2.2.png:rawFiles/Military Concerns/card15Dialogue2.2-305fad28309cfd86e1e8d86d8e24a75a.png:10241:image/png:1
+i:rawFiles/Military Concerns/card12Dialogue2.1.png:rawFiles/Military Concerns/card12Dialogue2.1-b80cc4d0f668503343b9e3ad7433bcaf.png:10125:image/png:1
+i:rawFiles/Military Concerns/card14Dialogue4.1.png:rawFiles/Military Concerns/card14Dialogue4.1-f6fa720d914826b7db269f72c79cec37.png:10284:image/png:1
+i:rawFiles/Military Concerns/card13Dialogue4.2.png:rawFiles/Military Concerns/card13Dialogue4.2-d34385d1be42edc7e5e4059ff7c010b2.png:10695:image/png:1
+i:rawFiles/Military Concerns/card15Dialogue2.1.png:rawFiles/Military Concerns/card15Dialogue2.1-8c1a09fc90018847bf60db7d11068935.png:9139:image/png:1
+i:rawFiles/Military Concerns/card12Dialogue2.2.png:rawFiles/Military Concerns/card12Dialogue2.2-37486d93fdb5c3369a52cdb722e2bfe2.png:10679:image/png:1
+i:rawFiles/Military Concerns/card14Dialogue4.2.png:rawFiles/Military Concerns/card14Dialogue4.2-a8913d282f6c18d792dbe9bac1cafa6e.png:11195:image/png:1
+i:rawFiles/Military Concerns/card13Dialogue4.1.png:rawFiles/Military Concerns/card13Dialogue4.1-80939f876499a95c5a09e2db6aaf0843.png:11255:image/png:1
+i:rawFiles/Military Concerns/card14Dialogue1.1.png:rawFiles/Military Concerns/card14Dialogue1.1-81ce17403f02017062c5162c5851152f.png:8551:image/png:1
+i:rawFiles/Military Concerns/card13Dialogue1.2.png:rawFiles/Military Concerns/card13Dialogue1.2-73b31cc0ea83feb7318203473b581087.png:9608:image/png:1
+i:rawFiles/Military Concerns/card14Dialogue3.2.png:rawFiles/Military Concerns/card14Dialogue3.2-53e86ef3260a7fe7bc201ab5788a8176.png:10538:image/png:1
+i:rawFiles/Military Concerns/card13Dialogue3.1.png:rawFiles/Military Concerns/card13Dialogue3.1-fad8855b547c98ec7c20396c10b642c4.png:10105:image/png:1
+i:rawFiles/Military Concerns/card14Dialogue1.2.png:rawFiles/Military Concerns/card14Dialogue1.2-42c761ee5d1775d815353bc1d99cfd23.png:10870:image/png:1
+i:rawFiles/Military Concerns/card13Dialogue1.1.png:rawFiles/Military Concerns/card13Dialogue1.1-9c4a28424db612f9f2b2fc050c7ef0a8.png:9359:image/png:1
+i:rawFiles/Military Concerns/card14Dialogue3.1.png:rawFiles/Military Concerns/card14Dialogue3.1-485d8fedf39dea23e6ad544c1dd1a029.png:9058:image/png:1
+i:rawFiles/Military Concerns/card13Dialogue3.2.png:rawFiles/Military Concerns/card13Dialogue3.2-65a89493f71b99d10efcd3aefee7ae9d.png:10187:image/png:1
+i:rawFiles/Military Concerns/card12Dialogue3.2.png:rawFiles/Military Concerns/card12Dialogue3.2-d0ef547b852b0add887503d8b4b73131.png:10306:image/png:1
+i:rawFiles/Military Concerns/card15Dialogue3.1.png:rawFiles/Military Concerns/card15Dialogue3.1-71d9643d3df7a691a5479b0df63220db.png:9699:image/png:1
+i:rawFiles/Military Concerns/card12Dialogue1.1.png:rawFiles/Military Concerns/card12Dialogue1.1-f3b03459cade1bc42b05d890b3b7873c.png:10298:image/png:1
+i:rawFiles/Military Concerns/card15Dialogue1.2.png:rawFiles/Military Concerns/card15Dialogue1.2-78b11b81a317175678caf789c2f2f730.png:10610:image/png:1
+i:rawFiles/Military Concerns/card12Dialogue3.1.png:rawFiles/Military Concerns/card12Dialogue3.1-cc743c08f4f10887020c478f58eb7def.png:9457:image/png:1
+i:rawFiles/Military Concerns/card15Dialogue3.2.png:rawFiles/Military Concerns/card15Dialogue3.2-0df60abef46d42853ff48b74e89a719d.png:10351:image/png:1
+i:rawFiles/Military Concerns/card12Dialogue1.2.png:rawFiles/Military Concerns/card12Dialogue1.2-c2ee6703d251db5b07ebe230760d89d3.png:10345:image/png:1
+i:rawFiles/Military Concerns/card15Dialogue1.1.png:rawFiles/Military Concerns/card15Dialogue1.1-8520ae1009cccfec5d26bb7149f03d9d.png:9995:image/png:1
+d:rawFiles/dialogues:rawFiles/dialogues:0:application/unknown:1
+i:rawFiles/dialogues/no.png:rawFiles/dialogues/no-4ac85e55d35a016df4ff39432a654450.png:25662:image/png:1
+i:rawFiles/dialogues/yes.png:rawFiles/dialogues/yes-9dc2b5ef22c82e1f1a08eb3045bc45c0.png:29009:image/png:1
+d:rawFiles/Technological Concerns:rawFiles/Technological Concerns:0:application/unknown:1
+i:rawFiles/Technological Concerns/card4Dialogue3.1.png:rawFiles/Technological Concerns/card4Dialogue3.1-590aab6dba689e5180148ae00aace3fd.png:9097:image/png:1
+i:rawFiles/Technological Concerns/card7Dialogue2.2.png:rawFiles/Technological Concerns/card7Dialogue2.2-eacd2374316f6b835dd079bad7b64ded.png:10324:image/png:1
+i:rawFiles/Technological Concerns/card4Dialogue1.2.png:rawFiles/Technological Concerns/card4Dialogue1.2-0f66237426b23b58f3782df6fc7080e5.png:11364:image/png:1
+i:rawFiles/Technological Concerns/card5Dialogue5.2.png:rawFiles/Technological Concerns/card5Dialogue5.2-062d22f75808d6662ec418315c78aae0.png:10541:image/png:1
+i:rawFiles/Technological Concerns/card4Dialogue3.2.png:rawFiles/Technological Concerns/card4Dialogue3.2-4dd8fc3f966cdd34086b72cc50973254.png:10104:image/png:1
+i:rawFiles/Technological Concerns/card7Dialogue2.1.png:rawFiles/Technological Concerns/card7Dialogue2.1-e46df64c104c8d20cc23f23827f66c08.png:9451:image/png:1
+i:rawFiles/Technological Concerns/card4Dialogue1.1.png:rawFiles/Technological Concerns/card4Dialogue1.1-d268f1c16a3bfb8d945019a031a7df07.png:11726:image/png:1
+i:rawFiles/Technological Concerns/card5Dialogue5.1.png:rawFiles/Technological Concerns/card5Dialogue5.1-689bd9bee819b7faeb433bb6344a38c6.png:10215:image/png:1
+i:rawFiles/Technological Concerns/card6Dialogue2.1.png:rawFiles/Technological Concerns/card6Dialogue2.1-c4127b468a4ffd71c51b7b2295207acf.png:11817:image/png:1
+i:rawFiles/Technological Concerns/card4Dialogue5.1.png:rawFiles/Technological Concerns/card4Dialogue5.1-23135206e0898c43839ef0d1518ccd74.png:11990:image/png:1
+i:rawFiles/Technological Concerns/card5Dialogue1.1.png:rawFiles/Technological Concerns/card5Dialogue1.1-48d9a755287d42231d2a3d5db6089b84.png:9746:image/png:1
+i:rawFiles/Technological Concerns/card5Dialogue3.2.png:rawFiles/Technological Concerns/card5Dialogue3.2-e75f4d6d2a599ba3e9dbaff427a1663e.png:9637:image/png:1
+i:rawFiles/Technological Concerns/card6Dialogue2.2.png:rawFiles/Technological Concerns/card6Dialogue2.2-01f931a25cadf4d7d5c741529765438e.png:9819:image/png:1
+i:rawFiles/Technological Concerns/card4Dialogue5.2.png:rawFiles/Technological Concerns/card4Dialogue5.2-31638666f1649c79ce685bcfd08d5bff.png:8567:image/png:1
+i:rawFiles/Technological Concerns/card5Dialogue1.2.png:rawFiles/Technological Concerns/card5Dialogue1.2-982ba6c4fce171bcca652573e67aa475.png:9813:image/png:1
+i:rawFiles/Technological Concerns/card5Dialogue3.1.png:rawFiles/Technological Concerns/card5Dialogue3.1-3aa8635534efef21496d754b01a6bfe7.png:11273:image/png:1
+i:rawFiles/Technological Concerns/card7Dialogue1.2.png:rawFiles/Technological Concerns/card7Dialogue1.2-a54ce95a8043490a39264d080106b165.png:8869:image/png:1
+i:rawFiles/Technological Concerns/card4Dialogue2.2.png:rawFiles/Technological Concerns/card4Dialogue2.2-79ee3325bb56415999f85075b98fbacb.png:10669:image/png:1
+i:rawFiles/Technological Concerns/card5Dialogue4.1.png:rawFiles/Technological Concerns/card5Dialogue4.1-32cdf87ca7a6e7b76cd281c66bd72606.png:10032:image/png:1
+i:rawFiles/Technological Concerns/card7Dialogue3.1.png:rawFiles/Technological Concerns/card7Dialogue3.1-d3f94ede04929aa56e16d7993c108035.png:12702:image/png:1
+i:rawFiles/Technological Concerns/card7Dialogue1.1.png:rawFiles/Technological Concerns/card7Dialogue1.1-4edf1b83ad2c321cce4413a931961582.png:9501:image/png:1
+i:rawFiles/Technological Concerns/card4Dialogue2.1.png:rawFiles/Technological Concerns/card4Dialogue2.1-4b2a8799aa94d5f8e30c4e607e6209ab.png:8759:image/png:1
+i:rawFiles/Technological Concerns/card5Dialogue4.2.png:rawFiles/Technological Concerns/card5Dialogue4.2-2f4fe722b9d183fc17cc73a03ab4a0be.png:8970:image/png:1
+i:rawFiles/Technological Concerns/card7Dialogue3.2.png:rawFiles/Technological Concerns/card7Dialogue3.2-cecc4dae3c9fe0e66836862386653a6b.png:10260:image/png:1
+i:rawFiles/Technological Concerns/card4Dialogue4.2.png:rawFiles/Technological Concerns/card4Dialogue4.2-90db3aa5f50c49dd5b8e67dd12cfd7ef.png:10456:image/png:1
+i:rawFiles/Technological Concerns/card6Dialogue1.1.png:rawFiles/Technological Concerns/card6Dialogue1.1-7ff50f6288876306e1ba94f2a4dd18c4.png:8998:image/png:1
+i:rawFiles/Technological Concerns/card5Dialogue2.1.png:rawFiles/Technological Concerns/card5Dialogue2.1-8934516e0b775d821e4ba7b246456a30.png:10856:image/png:1
+i:rawFiles/Technological Concerns/card4Dialogue6.1.png:rawFiles/Technological Concerns/card4Dialogue6.1-92d25664f75d578b10b336741f49d6cf.png:10508:image/png:1
+i:rawFiles/Technological Concerns/card4Dialogue4.1.png:rawFiles/Technological Concerns/card4Dialogue4.1-b28d539158eeeff30bdb53f73890bd9e.png:10298:image/png:1
+i:rawFiles/Technological Concerns/card6Dialogue1.2.png:rawFiles/Technological Concerns/card6Dialogue1.2-38db1d608a2cfa548126a11b49922dca.png:9722:image/png:1
+i:rawFiles/Technological Concerns/card5Dialogue2.2.png:rawFiles/Technological Concerns/card5Dialogue2.2-f8a0dfe06b5dff43418029d172154463.png:10223:image/png:1
+i:rawFiles/Technological Concerns/card4Dialogue6.2.png:rawFiles/Technological Concerns/card4Dialogue6.2-2abdfef91becb84dfb423e7c99160727.png:10110:image/png:1
+d:rawFiles/EnvironmentalConcerns:rawFiles/EnvironmentalConcerns:0:application/unknown:1
+i:rawFiles/EnvironmentalConcerns/E20.png:rawFiles/EnvironmentalConcerns/E20-acc74753dd26ff9f7b9bc0717d4e5095.png:47513:image/png:1
+i:rawFiles/EnvironmentalConcerns/E30.png:rawFiles/EnvironmentalConcerns/E30-addee867ebbc36fbd33226acf9988d58.png:47041:image/png:1
+i:rawFiles/EnvironmentalConcerns/E80.png:rawFiles/EnvironmentalConcerns/E80-b729bc0a4fed90d26bad9589ce1b59c0.png:46706:image/png:1
+i:rawFiles/EnvironmentalConcerns/E40.png:rawFiles/EnvironmentalConcerns/E40-d944d11b38ff8867fbcde833ae16f768.png:47044:image/png:1
+i:rawFiles/EnvironmentalConcerns/E50.png:rawFiles/EnvironmentalConcerns/E50-f9da42b54f37ddc95e651e49ce0eb003.png:46959:image/png:1
+i:rawFiles/EnvironmentalConcerns/E90.png:rawFiles/EnvironmentalConcerns/E90-abc50eb46efdd57256010f3bf9c2cf70.png:46607:image/png:1
+i:rawFiles/EnvironmentalConcerns/E60.png:rawFiles/EnvironmentalConcerns/E60-793828e9ed167a75bc7b164258f041ba.png:46840:image/png:1
+i:rawFiles/EnvironmentalConcerns/E70.png:rawFiles/EnvironmentalConcerns/E70-d553c0b6cfff112f0dc0fa2731eb6fa3.png:46836:image/png:1
+i:rawFiles/EnvironmentalConcerns/E00.png:rawFiles/EnvironmentalConcerns/E00-db1cba12b732c7cb15f11df303733562.png:47343:image/png:1
+i:rawFiles/EnvironmentalConcerns/E100.png:rawFiles/EnvironmentalConcerns/E100-571b81ee2840d8cdfb24c40fd1f4e601.png:45268:image/png:1
+i:rawFiles/EnvironmentalConcerns/E10.png:rawFiles/EnvironmentalConcerns/E10-006bb6f467b67d7957cb81fec6c2a8a7.png:47460:image/png:1
+d:rawFiles/Health Concerns:rawFiles/Health Concerns:0:application/unknown:1
+i:rawFiles/Health Concerns/card18Dialogue1.2.png:rawFiles/Health Concerns/card18Dialogue1.2-5e72642df9faa752f44c73800c35fcca.png:6144:image/png:1
+i:rawFiles/Health Concerns/card17Dialogue3.2.png:rawFiles/Health Concerns/card17Dialogue3.2-2c819f6bfde8af830c8cf4704c948eae.png:6232:image/png:1
+i:rawFiles/Health Concerns/card16Dialogue7.2.png:rawFiles/Health Concerns/card16Dialogue7.2-55d665c1ff97d65220ee097f42646407.png:7068:image/png:1
+i:rawFiles/Health Concerns/card16Dialogue5.1.png:rawFiles/Health Concerns/card16Dialogue5.1-d69110c9db85d1e8ac95e0fd53681325.png:6051:image/png:1
+i:rawFiles/Health Concerns/card17Dialogue1.1.png:rawFiles/Health Concerns/card17Dialogue1.1-29e1737807d07d3afad007f1ef6ca9f4.png:6633:image/png:1
+i:rawFiles/Health Concerns/card18Dialogue3.1.png:rawFiles/Health Concerns/card18Dialogue3.1-a184bb89a85d42a389373159444196fb.png:7437:image/png:1
+i:rawFiles/Health Concerns/card18Dialogue1.1.png:rawFiles/Health Concerns/card18Dialogue1.1-9c5dd557be7cecf31a3e370c48f84359.png:7108:image/png:1
+i:rawFiles/Health Concerns/card17Dialogue3.1.png:rawFiles/Health Concerns/card17Dialogue3.1-de3406a151a3b4e808fc4f1c612a9264.png:7908:image/png:1
+i:rawFiles/Health Concerns/card16Dialogue7.1.png:rawFiles/Health Concerns/card16Dialogue7.1-2f40d5077105c7d470cab1bd33ea2ae7.png:6625:image/png:1
+i:rawFiles/Health Concerns/card16Dialogue5.2.png:rawFiles/Health Concerns/card16Dialogue5.2-87fc255a3a2d4263f08e4e6c4950f069.png:5286:image/png:1
+i:rawFiles/Health Concerns/card17Dialogue1.2.png:rawFiles/Health Concerns/card17Dialogue1.2-9c53d0fb238676971af8c9d8668ed41e.png:6772:image/png:1
+i:rawFiles/Health Concerns/card18Dialogue3.2.png:rawFiles/Health Concerns/card18Dialogue3.2-3b0f980440c8009614f79d8f2dab29a0.png:8053:image/png:1
+i:rawFiles/Health Concerns/card16Dialogue1.2.png:rawFiles/Health Concerns/card16Dialogue1.2-03ac95ec5606834cfa97910dbca2da90.png:7551:image/png:1
+i:rawFiles/Health Concerns/card16Dialogue3.1.png:rawFiles/Health Concerns/card16Dialogue3.1-d931e1c3440d6f46f657cf5723216d45.png:7663:image/png:1
+i:rawFiles/Health Concerns/card16Dialogue1.1.png:rawFiles/Health Concerns/card16Dialogue1.1-039b383750ffe3801fb1e20658b5c4e1.png:7082:image/png:1
+i:rawFiles/Health Concerns/card16Dialogue3.2.png:rawFiles/Health Concerns/card16Dialogue3.2-e82bfdd20e2a1bfa992af091fd7ff461.png:7387:image/png:1
+i:rawFiles/Health Concerns/card17Dialogue2.1.png:rawFiles/Health Concerns/card17Dialogue2.1-9c5f81b3474d0055073d647ed9557ea1.png:7309:image/png:1
+i:rawFiles/Health Concerns/card16Dialogue6.1.png:rawFiles/Health Concerns/card16Dialogue6.1-a620be16390ebc54fbbc2791f86fab30.png:7603:image/png:1
+i:rawFiles/Health Concerns/card16Dialogue4.2.png:rawFiles/Health Concerns/card16Dialogue4.2-c6e605d5e3b7a2475a66ca669d9d006b.png:6140:image/png:1
+i:rawFiles/Health Concerns/card18Dialogue2.2.png:rawFiles/Health Concerns/card18Dialogue2.2-2dd6f7505267b4f62f8c07d609168422.png:6407:image/png:1
+i:rawFiles/Health Concerns/card17Dialogue2.2.png:rawFiles/Health Concerns/card17Dialogue2.2-16fb7f762570bb0e13741396396b7f32.png:7586:image/png:1
+i:rawFiles/Health Concerns/card16Dialogue6.2.png:rawFiles/Health Concerns/card16Dialogue6.2-9b78cf159b51e1525dd03f9e5216b42e.png:7555:image/png:1
+i:rawFiles/Health Concerns/card16Dialogue4.1.png:rawFiles/Health Concerns/card16Dialogue4.1-304ea44edebf4d34fbff59501e454a1b.png:6331:image/png:1
+i:rawFiles/Health Concerns/card18Dialogue2.1.png:rawFiles/Health Concerns/card18Dialogue2.1-92770b2082f576b88b7984c439bf90a9.png:6650:image/png:1
+i:rawFiles/Health Concerns/card17Dialogue4.1.png:rawFiles/Health Concerns/card17Dialogue4.1-2a284312c8acff9c100cf656e293a545.png:6994:image/png:1
+i:rawFiles/Health Concerns/card16Dialogue2.2.png:rawFiles/Health Concerns/card16Dialogue2.2-146f5619c0d54aa3fdf7a72cac858cdc.png:6465:image/png:1
+i:rawFiles/Health Concerns/card18Dialogue4.2.png:rawFiles/Health Concerns/card18Dialogue4.2-3080818458dcae632c7633281aea9f10.png:7484:image/png:1
+i:rawFiles/Health Concerns/card17Dialogue4.2.png:rawFiles/Health Concerns/card17Dialogue4.2-9c8126ae636b14f3d54397df2981850b.png:7765:image/png:1
+i:rawFiles/Health Concerns/card16Dialogue2.1.png:rawFiles/Health Concerns/card16Dialogue2.1-cd2efb7987ff6362ddafca8511c56356.png:6209:image/png:1
+i:rawFiles/Health Concerns/card18Dialogue4.1.png:rawFiles/Health Concerns/card18Dialogue4.1-20f77a9431d8433fa27382fc3aa51cc1.png:6962:image/png:1
+i:rawFiles/Health Concerns/card16Dialogue8.1.png:rawFiles/Health Concerns/card16Dialogue8.1-d215c6c4681b03bd831d59e46825c67f.png:7353:image/png:1
+i:rawFiles/Health Concerns/card16Dialogue8.2.png:rawFiles/Health Concerns/card16Dialogue8.2-953cd3ba9e82ee13fc45ceafa91ae0fc.png:7299:image/png:1
+d:rawFiles/foreground:rawFiles/foreground:0:application/unknown:1
+i:rawFiles/foreground/fg2.png:rawFiles/foreground/fg2-b1bd1c7499ec7d737ee78d41cff2027a.png:78722:image/png:1
+i:rawFiles/foreground/fg3.png:rawFiles/foreground/fg3-fa05a654d9c3a82e5eb8c8972558450f.png:78332:image/png:1
+i:rawFiles/foreground/fg1.png:rawFiles/foreground/fg1-6f71c2ade7470e352620c7596788c3e1.png:78409:image/png:1
+i:rawFiles/foreground/fg4.png:rawFiles/foreground/fg4-17b8813df7933f95be5cf5c1ed313bb1.png:74962:image/png:1
+i:rawFiles/foreground/fg5.png:rawFiles/foreground/fg5-b71385b9998a2ea01e861be8734779d9.png:78320:image/png:1
+i:rawFiles/foreground/fg7.png:rawFiles/foreground/fg7-78204df0b0daa7b881b8595234b8a006.png:74958:image/png:1
+i:rawFiles/foreground/fg6.png:rawFiles/foreground/fg6-7292cdd381d42912c8f4a244442a187c.png:74962:image/png:1
+d:rawFiles/guideDialogues:rawFiles/guideDialogues:0:application/unknown:1
+i:rawFiles/guideDialogues/card0Dialogue2.1.png:rawFiles/guideDialogues/card0Dialogue2.1-03a74c3798654e9212e3c2ce1b35b4bc.png:10308:image/png:1
+i:rawFiles/guideDialogues/card0Dialogue2.2.png:rawFiles/guideDialogues/card0Dialogue2.2-8eae840cb22a20a6c2f1ead4e0d2f4f1.png:10066:image/png:1
+i:rawFiles/guideDialogues/card0Dialogue4.1.png:rawFiles/guideDialogues/card0Dialogue4.1-936ddb6b37b271adc121887f61da63fd.png:9943:image/png:1
+i:rawFiles/guideDialogues/card19Dialogue1.1.png:rawFiles/guideDialogues/card19Dialogue1.1-c6cd58917624ed119822ee8a044ae73f.png:7301:image/png:1
+i:rawFiles/guideDialogues/card0Dialogue4.2.png:rawFiles/guideDialogues/card0Dialogue4.2-444a1c9c07e7e6ce834152bce32d9acd.png:8712:image/png:1
+i:rawFiles/guideDialogues/card19Dialogue1.2.png:rawFiles/guideDialogues/card19Dialogue1.2-e0d19f8156067e7f803bea4e1c30eb40.png:7127:image/png:1
+i:rawFiles/guideDialogues/card0Dialogue1.1.png:rawFiles/guideDialogues/card0Dialogue1.1-16b009fc7be22df0c6a22de6eb57505c.png:9240:image/png:1
+i:rawFiles/guideDialogues/card0Dialogue3.2.png:rawFiles/guideDialogues/card0Dialogue3.2-3afadc9475238a337d0fb991a77a3fd4.png:9484:image/png:1
+i:rawFiles/guideDialogues/card0Dialogue1.2.png:rawFiles/guideDialogues/card0Dialogue1.2-8992cbeeb74aafa4c551347b7ef66249.png:10868:image/png:1
+i:rawFiles/guideDialogues/card0Dialogue3.1.png:rawFiles/guideDialogues/card0Dialogue3.1-d53b28c586a5d0788d312c6282e156a0.png:9413:image/png:1
+i:rawFiles/guideDialogues/card0Dialogue5.2.png:rawFiles/guideDialogues/card0Dialogue5.2-2b0043b09802934de69928785e29794b.png:9623:image/png:1
+i:rawFiles/guideDialogues/card0Dialogue5.1.png:rawFiles/guideDialogues/card0Dialogue5.1-18327d3db1f362df33e56d46be994c4b.png:10520:image/png:1
+d:rawFiles/cards:rawFiles/cards:0:application/unknown:1
+i:rawFiles/cards/npcCard16.png:rawFiles/cards/npcCard16-3b1a4c27ba222112bb53878eabeda157.png:263527:image/png:1
+i:rawFiles/cards/npcCard8.png:rawFiles/cards/npcCard8-28b2368033b97c21bc10c46fac720984.png:322620:image/png:1
+i:rawFiles/cards/npcCard9.png:rawFiles/cards/npcCard9-d5112c27459fe45c758c36c83882619d.png:182358:image/png:1
+i:rawFiles/cards/npcCard17.png:rawFiles/cards/npcCard17-359b578ca51884b0daaccf3464f212cb.png:259299:image/png:1
+i:rawFiles/cards/npcCard15.png:rawFiles/cards/npcCard15-5759ed726e51a369686b6d7192f7703c.png:298020:image/png:1
+i:rawFiles/cards/npcCard14.png:rawFiles/cards/npcCard14-a7ef9ee4b373215f0d4683c9d86b0c5d.png:286241:image/png:1
+i:rawFiles/cards/npcCard10.png:rawFiles/cards/npcCard10-dd16e1f12903066188f6e67878366836.png:256241:image/png:1
+i:rawFiles/cards/guide(sad).png:rawFiles/cards/guide(sad)-5f26ef7057581bfc114a4d8d04f3468f.png:301834:image/png:1
+i:rawFiles/cards/npcCard11.png:rawFiles/cards/npcCard11-2ed4ab0bbe4433a058657bc27db99ab4.png:222488:image/png:1
+i:rawFiles/cards/npcCard13.png:rawFiles/cards/npcCard13-cbaf23d81066ed0ace20be0f322b7f03.png:206025:image/png:1
+i:rawFiles/cards/npcCard12.png:rawFiles/cards/npcCard12-1714f21f14d1de4f76723c27647e6916.png:252511:image/png:1
+i:rawFiles/cards/locked.png:rawFiles/cards/locked-1c1f2e462f4ccdef13bd031ab95efc2f.png:190939:image/png:1
+i:rawFiles/cards/backCardTesting.jpg:rawFiles/cards/backCardTesting-1ec707c07aef71097195cebec7b44066.jpg:30637:image/jpeg:1
+i:rawFiles/cards/npcCard1.png:rawFiles/cards/npcCard1-709f229629cf589008759655c84e00e7.png:283979:image/png:1
+i:rawFiles/cards/npcCard20.png:rawFiles/cards/npcCard20-5f26ef7057581bfc114a4d8d04f3468f.png:301834:image/png:1
+i:rawFiles/cards/npcCard2.png:rawFiles/cards/npcCard2-d31fb9d2bf157a8ddd0158e0d7b6526a.png:281916:image/png:1
+i:rawFiles/cards/npcCard3.png:rawFiles/cards/npcCard3-690b4ce47880ce6e401579625116e23c.png:223346:image/png:1
+i:rawFiles/cards/npcCard19.png:rawFiles/cards/npcCard19-e7f037a82a5b4b0737904587b1270248.png:301284:image/png:1
+i:rawFiles/cards/npcCard7.png:rawFiles/cards/npcCard7-172fa7165dd710d4bccf1e2e13033a85.png:273214:image/png:1
+i:rawFiles/cards/npcCard6.png:rawFiles/cards/npcCard6-ee21c4d73b8cb61725f17a3f88868a0a.png:277801:image/png:1
+i:rawFiles/cards/npcCard18.png:rawFiles/cards/npcCard18-a46868dd8553484ef6958b29fb96e190.png:238052:image/png:1
+i:rawFiles/cards/back.png:rawFiles/cards/back-6bbf6ea5c0115d61df2d60468887d2e7.png:331686:image/png:1
+i:rawFiles/cards/npcCard4.png:rawFiles/cards/npcCard4-a7ca6d8c4e15e679e98006fc29f77bac.png:310640:image/png:1
+i:rawFiles/cards/npcCard5.png:rawFiles/cards/npcCard5-23d6a8933f3770015c967097e9d01e83.png:305787:image/png:1
+d:rawFiles/gameBackgrounds:rawFiles/gameBackgrounds:0:application/unknown:1
+i:rawFiles/gameBackgrounds/transitionBg.png:rawFiles/gameBackgrounds/transitionBg-43cfe72554e20253008bcc499cde7453.png:228411:image/png:1
+i:rawFiles/gameBackgrounds/bg6.png:rawFiles/gameBackgrounds/bg6-41efb7bc6b78470420324d055461a4e3.png:525107:image/png:1
+i:rawFiles/gameBackgrounds/bg7.png:rawFiles/gameBackgrounds/bg7-5caf389fb6237bb1892b27f384915fd3.png:590472:image/png:1
+i:rawFiles/gameBackgrounds/bg5.png:rawFiles/gameBackgrounds/bg5-c30cbad7fa025d585cbcff00e709b098.png:515109:image/png:1
+i:rawFiles/gameBackgrounds/bg4.png:rawFiles/gameBackgrounds/bg4-a4249e9cba8edd527a3f7a7192649539.png:551548:image/png:1
+i:rawFiles/gameBackgrounds/bg1.png:rawFiles/gameBackgrounds/bg1-865915de069adc6db89fa71eb9311e6b.png:584320:image/png:1
+i:rawFiles/gameBackgrounds/bg3.png:rawFiles/gameBackgrounds/bg3-7acb50976e873f7983c2331d57ca59d5.png:570913:image/png:1
+i:rawFiles/gameBackgrounds/bg2.png:rawFiles/gameBackgrounds/bg2-b955f6fdc8fa4dee6a95d13367dd9b43.png:528944:image/png:1
+d:rawFiles/settingsScreen:rawFiles/settingsScreen:0:application/unknown:1
+i:rawFiles/settingsScreen/xButton.png:rawFiles/settingsScreen/xButton-328fcbaa0dd3b9c50e549e4ae104141a.png:1897:image/png:1
+i:rawFiles/settingsScreen/soundFx(disabled).png:rawFiles/settingsScreen/soundFx(disabled)-79b60a2eb34b2f88eeb70f5a8b70104f.png:3361:image/png:1
+i:rawFiles/settingsScreen/music(enabled).png:rawFiles/settingsScreen/music(enabled)-d7ef0251a866d913b53e194ac1b16978.png:4034:image/png:1
+i:rawFiles/settingsScreen/soundFx(enabled).png:rawFiles/settingsScreen/soundFx(enabled)-628712e8a58498842676a6f13445913c.png:3350:image/png:1
+i:rawFiles/settingsScreen/music(disabled).png:rawFiles/settingsScreen/music(disabled)-d4de0df9fd6f7625b504a25953fbc2ef.png:2492:image/png:1
+d:rawFiles/Environmental Concerns:rawFiles/Environmental Concerns:0:application/unknown:1
+i:rawFiles/Environmental Concerns/card3Dialogue3.2.png:rawFiles/Environmental Concerns/card3Dialogue3.2-2308267f3fcd4505390642116220fc22.png:11600:image/png:1
+i:rawFiles/Environmental Concerns/card1Dialogue4.2.png:rawFiles/Environmental Concerns/card1Dialogue4.2-757644c662e760c3fa1ce7b95e76fb34.png:10466:image/png:1
+i:rawFiles/Environmental Concerns/card2Dialogue5.1.png:rawFiles/Environmental Concerns/card2Dialogue5.1-ce50e648229aec0b1f7b596605b2cd01.png:10332:image/png:1
+i:rawFiles/Environmental Concerns/card3Dialogue1.1.png:rawFiles/Environmental Concerns/card3Dialogue1.1-c45e5b09a7a1618d97f6060e36bf9e82.png:11227:image/png:1
+i:rawFiles/Environmental Concerns/card3Dialogue3.1.png:rawFiles/Environmental Concerns/card3Dialogue3.1-54398a383c962162c9c22548327571df.png:10824:image/png:1
+i:rawFiles/Environmental Concerns/card1Dialogue4.1.png:rawFiles/Environmental Concerns/card1Dialogue4.1-d0bd8a8fe93a4eb00eb730d46c71dd35.png:10760:image/png:1
+i:rawFiles/Environmental Concerns/card2Dialogue5.2.png:rawFiles/Environmental Concerns/card2Dialogue5.2-fff80e0c94bb651115431a6431919090.png:9252:image/png:1
+i:rawFiles/Environmental Concerns/card3Dialogue1.2.png:rawFiles/Environmental Concerns/card3Dialogue1.2-8cef0411c183133d29694f71b8f0e193.png:11497:image/png:1
+i:rawFiles/Environmental Concerns/card1Dialogue2.2.png:rawFiles/Environmental Concerns/card1Dialogue2.2-5cb0bcd00fe7295ba0991de0e15dc407.png:11676:image/png:1
+i:rawFiles/Environmental Concerns/card2Dialogue1.2.png:rawFiles/Environmental Concerns/card2Dialogue1.2-d60867d729879caef5c6935b8c44c26c.png:9879:image/png:1
+i:rawFiles/Environmental Concerns/card3Dialogue5.2.png:rawFiles/Environmental Concerns/card3Dialogue5.2-99351d492df5b99f0e0686c86eb42323.png:9816:image/png:1
+i:rawFiles/Environmental Concerns/card2Dialogue3.1.png:rawFiles/Environmental Concerns/card2Dialogue3.1-ed44460e7c0f37ad5fad31e597087978.png:10484:image/png:1
+i:rawFiles/Environmental Concerns/card1Dialogue2.1.png:rawFiles/Environmental Concerns/card1Dialogue2.1-4a97bf9efe9197d2862eca774442d13f.png:10115:image/png:1
+i:rawFiles/Environmental Concerns/card2Dialogue1.1.png:rawFiles/Environmental Concerns/card2Dialogue1.1-f5722fef2795f5be25c22e95c366844b.png:9366:image/png:1
+i:rawFiles/Environmental Concerns/card3Dialogue5.1.png:rawFiles/Environmental Concerns/card3Dialogue5.1-d63a1c2f7679bf87917ac4cbc7c7b0c8.png:10107:image/png:1
+i:rawFiles/Environmental Concerns/card2Dialogue3.2.png:rawFiles/Environmental Concerns/card2Dialogue3.2-c50bd39345cf30b7f5b920941d0f35fc.png:11051:image/png:1
+i:rawFiles/Environmental Concerns/card1Dialogue5.1.png:rawFiles/Environmental Concerns/card1Dialogue5.1-bdd19d1ebdd64d0578c00629c242f0e1.png:10414:image/png:1
+i:rawFiles/Environmental Concerns/card3Dialogue2.1.png:rawFiles/Environmental Concerns/card3Dialogue2.1-91577892b95fd71d1609e0e6a29b96e0.png:12422:image/png:1
+i:rawFiles/Environmental Concerns/card2Dialogue4.2.png:rawFiles/Environmental Concerns/card2Dialogue4.2-0898374dee3c0280fbae6dc0a74cd6de.png:10459:image/png:1
+i:rawFiles/Environmental Concerns/card1Dialogue5.2.png:rawFiles/Environmental Concerns/card1Dialogue5.2-a751263e3fdc2dfcc9fb58a8a3251665.png:11023:image/png:1
+i:rawFiles/Environmental Concerns/card3Dialogue2.2.png:rawFiles/Environmental Concerns/card3Dialogue2.2-125c8c893fdf79cb68ba60abe6928e63.png:12271:image/png:1
+i:rawFiles/Environmental Concerns/card2Dialogue4.1.png:rawFiles/Environmental Concerns/card2Dialogue4.1-8b2c7091ed8e65d7655a33a5ce69ca04.png:9622:image/png:1
+i:rawFiles/Environmental Concerns/card3Dialogue4.1.png:rawFiles/Environmental Concerns/card3Dialogue4.1-516880963e83b4f55f289c1261c5c33b.png:12092:image/png:1
+i:rawFiles/Environmental Concerns/card1Dialogue3.1.png:rawFiles/Environmental Concerns/card1Dialogue3.1-49babd93586d246a884c2e33cae2a323.png:10857:image/png:1
+i:rawFiles/Environmental Concerns/card1Dialogue1.2.png:rawFiles/Environmental Concerns/card1Dialogue1.2-6c49b052eb9515cddbdce127ad5d557d.png:10815:image/png:1
+i:rawFiles/Environmental Concerns/card3Dialogue6.2.png:rawFiles/Environmental Concerns/card3Dialogue6.2-e0d53f3c849304c3d0078053f50c1499.png:9856:image/png:1
+i:rawFiles/Environmental Concerns/card2Dialogue2.2.png:rawFiles/Environmental Concerns/card2Dialogue2.2-ea5f78db79c832366cb84df60c138eaa.png:9761:image/png:1
+i:rawFiles/Environmental Concerns/card3Dialogue4.2.png:rawFiles/Environmental Concerns/card3Dialogue4.2-2a3450f7ea3d700c5e64d5270df41016.png:12973:image/png:1
+i:rawFiles/Environmental Concerns/card1Dialogue3.2.png:rawFiles/Environmental Concerns/card1Dialogue3.2-3b1ece28b35ccb4afc56c79bfcfdd709.png:8928:image/png:1
+i:rawFiles/Environmental Concerns/card1Dialogue1.1.png:rawFiles/Environmental Concerns/card1Dialogue1.1-0466913a63636d9ab5ecbda79721ea76.png:10597:image/png:1
+i:rawFiles/Environmental Concerns/card3Dialogue6.1.png:rawFiles/Environmental Concerns/card3Dialogue6.1-56856c3e9c8c836ff33cdca824eebb8f.png:9736:image/png:1
+i:rawFiles/Environmental Concerns/card2Dialogue2.1.png:rawFiles/Environmental Concerns/card2Dialogue2.1-c21296570872a49e1abd873ed4ad1034.png:9441:image/png:1
+d:rawFiles/endingScreens:rawFiles/endingScreens:0:application/unknown:1
+i:rawFiles/endingScreens/healthcareEnding.png:rawFiles/endingScreens/healthcareEnding-ff47416851df4287dbe4e243fb248d4a.png:1392518:image/png:1
+i:rawFiles/endingScreens/techEndingpng.png:rawFiles/endingScreens/techEndingpng-91553c301d3bfcf92c741340ae4c2be3.png:1775439:image/png:1
+i:rawFiles/endingScreens/militaryEnding.png:rawFiles/endingScreens/militaryEnding-448b458bd4999734ddad633e1403809f.png:1665785:image/png:1
+i:rawFiles/endingScreens/neutralEnding.png:rawFiles/endingScreens/neutralEnding-519b2941cec60cae7ecbd6303e742404.png:1936364:image/png:1
+i:rawFiles/endingScreens/environmentalEnding.png:rawFiles/endingScreens/environmentalEnding-7a31afb44eccefe938a5d567724bf783.png:1543060:image/png:1
+i:rawFiles/endingScreens/culturalEnding.png:rawFiles/endingScreens/culturalEnding-44711e012f98628844e867181887d905.png:1637103:image/png:1
+i:rawFiles/endingScreens/badEnding.png:rawFiles/endingScreens/badEnding-be47ce3f52d7df1e7e816f6355d0de97.png:1825539:image/png:1
+d:rawFiles/CulturalConcerns:rawFiles/CulturalConcerns:0:application/unknown:1
+i:rawFiles/CulturalConcerns/C30.png:rawFiles/CulturalConcerns/C30-327e6c29bbcb38cc92ed7aa469522947.png:52126:image/png:1
+i:rawFiles/CulturalConcerns/C20.png:rawFiles/CulturalConcerns/C20-44790c7200cf64b9e04cf0dd82f3bef6.png:52158:image/png:1
+i:rawFiles/CulturalConcerns/C50.png:rawFiles/CulturalConcerns/C50-f04d62cae7227ccc4f666b52abb356a0.png:51989:image/png:1
+i:rawFiles/CulturalConcerns/C90.png:rawFiles/CulturalConcerns/C90-6b356598039118891c3d05cd97e2d233.png:51097:image/png:1
+i:rawFiles/CulturalConcerns/C80.png:rawFiles/CulturalConcerns/C80-44ddbb5fe912d80ef2b133c9c9f21f02.png:51353:image/png:1
+i:rawFiles/CulturalConcerns/C40.png:rawFiles/CulturalConcerns/C40-3c0059a7c74f56e2302e058c61acaab8.png:51931:image/png:1
+i:rawFiles/CulturalConcerns/C70.png:rawFiles/CulturalConcerns/C70-4408abeaa165852e8141dc0cc00b1000.png:51598:image/png:1
+i:rawFiles/CulturalConcerns/C60.png:rawFiles/CulturalConcerns/C60-606bc84df6e3eaf951a1d6ffa50ff2a4.png:51878:image/png:1
+i:rawFiles/CulturalConcerns/C100.png:rawFiles/CulturalConcerns/C100-47bec66b6fb20da8dbadc46755efe59e.png:50578:image/png:1
+i:rawFiles/CulturalConcerns/C10.png:rawFiles/CulturalConcerns/C10-fe3be813c0f1ce5d31c91dec1aef94f0.png:52575:image/png:1
+i:rawFiles/CulturalConcerns/C00.png:rawFiles/CulturalConcerns/C00-dfe5a54b01681d234204f744ea13141b.png:52548:image/png:1
+d:rawFiles/MilitaryConcerns:rawFiles/MilitaryConcerns:0:application/unknown:1
+i:rawFiles/MilitaryConcerns/M00.png:rawFiles/MilitaryConcerns/M00-6b2bd87ab22e2ca9806b66bf7b113339.png:47289:image/png:1
+i:rawFiles/MilitaryConcerns/M10.png:rawFiles/MilitaryConcerns/M10-1cb10adcb6d8af7b243eaca318be8449.png:47188:image/png:1
+i:rawFiles/MilitaryConcerns/M60.png:rawFiles/MilitaryConcerns/M60-71d7307553e536b55bd5794deb3be68e.png:46124:image/png:1
+i:rawFiles/MilitaryConcerns/M70.png:rawFiles/MilitaryConcerns/M70-6bc4daf1b7d2d8fa93540b789a3c063c.png:46086:image/png:1
+i:rawFiles/MilitaryConcerns/M100.png:rawFiles/MilitaryConcerns/M100-79addf895030f98d9d1da83e63e046b4.png:45070:image/png:1
+i:rawFiles/MilitaryConcerns/M80.png:rawFiles/MilitaryConcerns/M80-9165b696d41474dbe29fa537c2272589.png:46028:image/png:1
+i:rawFiles/MilitaryConcerns/M40.png:rawFiles/MilitaryConcerns/M40-313f2ce55c4c16887f8b6939153e9991.png:46741:image/png:1
+i:rawFiles/MilitaryConcerns/M50.png:rawFiles/MilitaryConcerns/M50-10051dc4a8b2e94dd23468bb343f95f4.png:46588:image/png:1
+i:rawFiles/MilitaryConcerns/M90.png:rawFiles/MilitaryConcerns/M90-3c79a84682052f43a4856c7ede71f2e6.png:46015:image/png:1
+i:rawFiles/MilitaryConcerns/M20.png:rawFiles/MilitaryConcerns/M20-77cbf765cf97674c6513b3523272cbe6.png:46933:image/png:1
+i:rawFiles/MilitaryConcerns/M30.png:rawFiles/MilitaryConcerns/M30-c7f86ce3ed73c241f285249004b8068d.png:46795:image/png:1
+d:rawFiles/Cultural Concerns:rawFiles/Cultural Concerns:0:application/unknown:1
+i:rawFiles/Cultural Concerns/card8Dialogue2.1.png:rawFiles/Cultural Concerns/card8Dialogue2.1-99617ad0aac3be7dd3cd0688e911482a.png:11011:image/png:1
+i:rawFiles/Cultural Concerns/card10Dialogue3.1.png:rawFiles/Cultural Concerns/card10Dialogue3.1-6deb321b611ff8cf9291d858f5478dd3.png:10577:image/png:1
+i:rawFiles/Cultural Concerns/card9Dialogue4.2.png:rawFiles/Cultural Concerns/card9Dialogue4.2-6d51a921f85a500a9518c2263a26ebf7.png:10276:image/png:1
+i:rawFiles/Cultural Concerns/card10Dialogue1.2.png:rawFiles/Cultural Concerns/card10Dialogue1.2-ed50a13f39519e29645a5859d875f5b4.png:9401:image/png:1
+i:rawFiles/Cultural Concerns/card8Dialogue2.2.png:rawFiles/Cultural Concerns/card8Dialogue2.2-cecf9f49a38673f9d796f415dd70da46.png:10411:image/png:1
+i:rawFiles/Cultural Concerns/card10Dialogue3.2.png:rawFiles/Cultural Concerns/card10Dialogue3.2-15e68d7dea2c4c373981b3369113c930.png:9634:image/png:1
+i:rawFiles/Cultural Concerns/card9Dialogue4.1.png:rawFiles/Cultural Concerns/card9Dialogue4.1-82736363f0b5974db4c73e0cae71f914.png:9914:image/png:1
+i:rawFiles/Cultural Concerns/card10Dialogue1.1.png:rawFiles/Cultural Concerns/card10Dialogue1.1-56ed25acb2282fea1e68635fc451240d.png:10496:image/png:1
+i:rawFiles/Cultural Concerns/card11Dialogue1.1.png:rawFiles/Cultural Concerns/card11Dialogue1.1-41abed918c08518d19c19d42b99c7a59.png:10297:image/png:1
+i:rawFiles/Cultural Concerns/card8Dialogue4.1.png:rawFiles/Cultural Concerns/card8Dialogue4.1-97a7fbbbb164857ab2c97ec5792b9dad.png:12967:image/png:1
+i:rawFiles/Cultural Concerns/card11Dialogue3.2.png:rawFiles/Cultural Concerns/card11Dialogue3.2-b679842abbd1709c2c414ed12ae28296.png:10736:image/png:1
+i:rawFiles/Cultural Concerns/card9Dialogue2.2.png:rawFiles/Cultural Concerns/card9Dialogue2.2-2b1e575202c49dfed62140da7169427d.png:10736:image/png:1
+i:rawFiles/Cultural Concerns/card11Dialogue1.2.png:rawFiles/Cultural Concerns/card11Dialogue1.2-d97822007852b7c71a9417038b65204b.png:11853:image/png:1
+i:rawFiles/Cultural Concerns/card8Dialogue4.2.png:rawFiles/Cultural Concerns/card8Dialogue4.2-1200d72927e22b4ff2bf6f97189a8d14.png:10259:image/png:1
+i:rawFiles/Cultural Concerns/card11Dialogue3.1.png:rawFiles/Cultural Concerns/card11Dialogue3.1-e76c7ad1863d48e70355362b63a3636a.png:10385:image/png:1
+i:rawFiles/Cultural Concerns/card9Dialogue2.1.png:rawFiles/Cultural Concerns/card9Dialogue2.1-e798bab194bb29a8a1fe50ce977aa775.png:12610:image/png:1
+i:rawFiles/Cultural Concerns/card10Dialogue2.2.png:rawFiles/Cultural Concerns/card10Dialogue2.2-8b37fcc15f2bdc2ad4f0d99ec571d2c0.png:10570:image/png:1
+i:rawFiles/Cultural Concerns/card8Dialogue3.2.png:rawFiles/Cultural Concerns/card8Dialogue3.2-340b8a8c4fed4ebffd953ec8f3c13bee.png:10053:image/png:1
+i:rawFiles/Cultural Concerns/card11Dialogue4.1.png:rawFiles/Cultural Concerns/card11Dialogue4.1-2a7c7ccd3dbee187e207e7430b4159a7.png:12261:image/png:1
+i:rawFiles/Cultural Concerns/card8Dialogue1.1.png:rawFiles/Cultural Concerns/card8Dialogue1.1-4c30ec3fd7adbf0439fd630fd866d9fa.png:10997:image/png:1
+i:rawFiles/Cultural Concerns/card10Dialogue2.1.png:rawFiles/Cultural Concerns/card10Dialogue2.1-d61ad5355340a2b64ce896528177c2c8.png:11896:image/png:1
+i:rawFiles/Cultural Concerns/card8Dialogue3.1.png:rawFiles/Cultural Concerns/card8Dialogue3.1-bbaea0ad34d5bf5dbd4b24a5d060585b.png:10815:image/png:1
+i:rawFiles/Cultural Concerns/card11Dialogue4.2.png:rawFiles/Cultural Concerns/card11Dialogue4.2-6a55a740c25b8d2766a17c7f206ac2e2.png:12210:image/png:1
+i:rawFiles/Cultural Concerns/card8Dialogue1.2.png:rawFiles/Cultural Concerns/card8Dialogue1.2-5229896bbe8f2541f0afa9b0169b3cc6.png:9365:image/png:1
+i:rawFiles/Cultural Concerns/card9Dialogue1.2.png:rawFiles/Cultural Concerns/card9Dialogue1.2-722a80cee74d31c1dd801d05d752c8d2.png:10186:image/png:1
+i:rawFiles/Cultural Concerns/card10Dialogue4.2.png:rawFiles/Cultural Concerns/card10Dialogue4.2-5f6a195b77f6c609e2f4af328b8e3733.png:10187:image/png:1
+i:rawFiles/Cultural Concerns/card9Dialogue3.1.png:rawFiles/Cultural Concerns/card9Dialogue3.1-758a4ba4ea7439163a08f41f15bfe91c.png:10641:image/png:1
+i:rawFiles/Cultural Concerns/card11Dialogue2.1.png:rawFiles/Cultural Concerns/card11Dialogue2.1-1609d563b48feb08f62e884e1f873390.png:9150:image/png:1
+i:rawFiles/Cultural Concerns/card9Dialogue1.1.png:rawFiles/Cultural Concerns/card9Dialogue1.1-6dcf6f1f93c5d966742ec8b3d34b5b2d.png:9882:image/png:1
+i:rawFiles/Cultural Concerns/card10Dialogue4.1.png:rawFiles/Cultural Concerns/card10Dialogue4.1-d541c4eb46d01ca23d868de66b85bdfd.png:9849:image/png:1
+i:rawFiles/Cultural Concerns/card9Dialogue3.2.png:rawFiles/Cultural Concerns/card9Dialogue3.2-61d1a155c0d91fdb8f701c8e7fe08b24.png:10819:image/png:1
+i:rawFiles/Cultural Concerns/card11Dialogue2.2.png:rawFiles/Cultural Concerns/card11Dialogue2.2-75468d4f61b595b8ad8b90241a3095be.png:9225:image/png:1
+d:rawFiles/mainMenuScreen:rawFiles/mainMenuScreen:0:application/unknown:1
+i:rawFiles/mainMenuScreen/about(unclicked).png:rawFiles/mainMenuScreen/about(unclicked)-b29bc97265236f407180d4c15ee78034.png:5435:image/png:1
+i:rawFiles/mainMenuScreen/title.png:rawFiles/mainMenuScreen/title-513bb75e67762f49564b3f8e44e92763.png:14123:image/png:1
+i:rawFiles/mainMenuScreen/archives(clicked).png:rawFiles/mainMenuScreen/archives(clicked)-bce9d6f670a3749ac0e8774d2b8f278a.png:8334:image/png:1
+i:rawFiles/mainMenuScreen/progress-50%.png:rawFiles/mainMenuScreen/progress-50%-9fb05de0afbc733e00a40ebba4681979.png:84222:image/png:1
+i:rawFiles/mainMenuScreen/dropMenu.png:rawFiles/mainMenuScreen/dropMenu-a1c3e213e9b249ba5efa3624f35c2f54.png:37490:image/png:1
+i:rawFiles/mainMenuScreen/settings(clicked).png:rawFiles/mainMenuScreen/settings(clicked)-e034bef6ceca1b7bc15df45278299b85.png:7487:image/png:1
+i:rawFiles/mainMenuScreen/wearHeadphones(portrait).png:rawFiles/mainMenuScreen/wearHeadphones(portrait)-763280f3fab75a2ab58f46b9f96b267a.png:31566:image/png:1
+i:rawFiles/mainMenuScreen/bars.png:rawFiles/mainMenuScreen/bars-823e3b839cda8414a463a8e8e59d966f.png:3295:image/png:1
+i:rawFiles/mainMenuScreen/logo.png:rawFiles/mainMenuScreen/logo-5f5f4aa333002d65d316bbe350d69b4c.png:114890:image/png:1
+i:rawFiles/mainMenuScreen/start(clicked).png:rawFiles/mainMenuScreen/start(clicked)-f5fa873a47e0aea3ab521695b0ea9c59.png:8322:image/png:1
+i:rawFiles/mainMenuScreen/archives(unclicked).png:rawFiles/mainMenuScreen/archives(unclicked)-d729a563b6e596cd6915d269669b6d73.png:4876:image/png:1
+i:rawFiles/mainMenuScreen/logo(portrait).png:rawFiles/mainMenuScreen/logo(portrait)-aee0904ec115fa030a770d231a436532.png:34917:image/png:1
+i:rawFiles/mainMenuScreen/about(clicked).png:rawFiles/mainMenuScreen/about(clicked)-f7043398c7f93e00740a111b7ea52fd9.png:6324:image/png:1
+i:rawFiles/mainMenuScreen/settings(unclicked).png:rawFiles/mainMenuScreen/settings(unclicked)-99ccb6a9311e730f9c7b88a9c398d8b5.png:6205:image/png:1
+i:rawFiles/mainMenuScreen/start(unclicked).png:rawFiles/mainMenuScreen/start(unclicked)-4b8d45f2ee82c87f8d3746e40075589f.png:10490:image/png:1
+i:rawFiles/mainMenuScreen/flare.png:rawFiles/mainMenuScreen/flare-c744a0382e3da2cd856cf384f27e669f.png:53312:image/png:1
+i:rawFiles/mainMenuScreen/mainBackground(portrait).png:rawFiles/mainMenuScreen/mainBackground(portrait)-ed301c1bfda30f328e4aa0b2071c4cec.png:582146:image/png:1
+d:rawFiles/OverallProgress:rawFiles/OverallProgress:0:application/unknown:1
+i:rawFiles/OverallProgress/O00.png:rawFiles/OverallProgress/O00-d4cf13341f910b0e1205d356b4b8ad8f.png:53119:image/png:1
+i:rawFiles/OverallProgress/O10.png:rawFiles/OverallProgress/O10-4785b70a9d5e1956843dff877d54e308.png:52499:image/png:1
+i:rawFiles/OverallProgress/O60.png:rawFiles/OverallProgress/O60-9ef03374a28b9fdbcf6b2b154e589702.png:52308:image/png:1
+i:rawFiles/OverallProgress/O70.png:rawFiles/OverallProgress/O70-74063973d47e65ca1e2d4216f11a4ee6.png:51853:image/png:1
+i:rawFiles/OverallProgress/O40.png:rawFiles/OverallProgress/O40-d2d8acd264099dbec6bffff8546edad9.png:52523:image/png:1
+i:rawFiles/OverallProgress/O80.png:rawFiles/OverallProgress/O80-068d9559b2d7df93fc4791a1524d855e.png:51751:image/png:1
+i:rawFiles/OverallProgress/O90.png:rawFiles/OverallProgress/O90-a45d60e60245c4f58c36c9997f582eb2.png:51681:image/png:1
+i:rawFiles/OverallProgress/O100.png:rawFiles/OverallProgress/O100-2e4d5734ae9cc7155155a7e6797154f7.png:51488:image/png:1
+i:rawFiles/OverallProgress/O50.png:rawFiles/OverallProgress/O50-5df4ecaf05c01112173c59352f05e7e1.png:52303:image/png:1
+i:rawFiles/OverallProgress/O20.png:rawFiles/OverallProgress/O20-4fecdd59da144dd935d738095751f2d5.png:52354:image/png:1
+i:rawFiles/OverallProgress/O30.png:rawFiles/OverallProgress/O30-8c79db4ad6a8c7a6c6694c1bce63ba0f.png:52338:image/png:1
+d:rawFiles/TechnologicalConcerns:rawFiles/TechnologicalConcerns:0:application/unknown:1
+i:rawFiles/TechnologicalConcerns/T100.png:rawFiles/TechnologicalConcerns/T100-4bb1298941c2e886f7e013f7742b6c84.png:46870:image/png:1
+i:rawFiles/TechnologicalConcerns/T00.png:rawFiles/TechnologicalConcerns/T00-6428c2abf2c32d8ee17dcee8b1677e9d.png:49265:image/png:1
+i:rawFiles/TechnologicalConcerns/T10.png:rawFiles/TechnologicalConcerns/T10-a1723d2727b6003f01a9b063f162d4d8.png:49208:image/png:1
+i:rawFiles/TechnologicalConcerns/T60.png:rawFiles/TechnologicalConcerns/T60-8ec3375e39125fb0e1b32b0013a4834f.png:48414:image/png:1
+i:rawFiles/TechnologicalConcerns/T70.png:rawFiles/TechnologicalConcerns/T70-a17bd8a9933a80c0587947c0e33147da.png:48316:image/png:1
+i:rawFiles/TechnologicalConcerns/T40.png:rawFiles/TechnologicalConcerns/T40-de35849ddc06e764aa45689ae54db516.png:48598:image/png:1
+i:rawFiles/TechnologicalConcerns/T80.png:rawFiles/TechnologicalConcerns/T80-88b5a21138efc7ddf652a40f44844bd8.png:48009:image/png:1
+i:rawFiles/TechnologicalConcerns/T90.png:rawFiles/TechnologicalConcerns/T90-3feaf1cf7cef0d687b6e0805fb6dfe76.png:47495:image/png:1
+i:rawFiles/TechnologicalConcerns/T50.png:rawFiles/TechnologicalConcerns/T50-d59c50671174ff23f34c91167c926556.png:48547:image/png:1
+i:rawFiles/TechnologicalConcerns/T20.png:rawFiles/TechnologicalConcerns/T20-b0fc632818ae1d8c07587f76bbb19f50.png:49429:image/png:1
+i:rawFiles/TechnologicalConcerns/T30.png:rawFiles/TechnologicalConcerns/T30-6928e0c43477f60b2b541a90a1a68c60.png:48720:image/png:1
+d:rawFiles/playingBgs:rawFiles/playingBgs:0:application/unknown:1
+i:rawFiles/playingBgs/bg9.png:rawFiles/playingBgs/bg9-43cfe72554e20253008bcc499cde7453.png:228411:image/png:1
+i:rawFiles/playingBgs/bg8.png:rawFiles/playingBgs/bg8-5caf389fb6237bb1892b27f384915fd3.png:590472:image/png:1
+i:rawFiles/playingBgs/bg6.png:rawFiles/playingBgs/bg6-2ff0519c6360660e7cee4680ee5c564f.png:579633:image/png:1
+i:rawFiles/playingBgs/bg7.png:rawFiles/playingBgs/bg7-41efb7bc6b78470420324d055461a4e3.png:525107:image/png:1
+i:rawFiles/playingBgs/bg5.png:rawFiles/playingBgs/bg5-414f7ce0fe03a5564b6497145c1ace26.png:618181:image/png:1
+i:rawFiles/playingBgs/bg4.png:rawFiles/playingBgs/bg4-7acb50976e873f7983c2331d57ca59d5.png:570913:image/png:1
+i:rawFiles/playingBgs/bg1.png:rawFiles/playingBgs/bg1-73573f5116a3a03546258122b8f6b26a.png:576816:image/png:1
+i:rawFiles/playingBgs/bg3.png:rawFiles/playingBgs/bg3-a4249e9cba8edd527a3f7a7192649539.png:551548:image/png:1
+i:rawFiles/playingBgs/bg2.png:rawFiles/playingBgs/bg2-b955f6fdc8fa4dee6a95d13367dd9b43.png:528944:image/png:1
+d:rawFiles/HealthcareConcerns:rawFiles/HealthcareConcerns:0:application/unknown:1
+i:rawFiles/HealthcareConcerns/H70.png:rawFiles/HealthcareConcerns/H70-2dee025948c8d8006734aa0f040c0b7c.png:49146:image/png:1
+i:rawFiles/HealthcareConcerns/H60.png:rawFiles/HealthcareConcerns/H60-70ac79fb92530acd76d1e4ec38e85818.png:49235:image/png:1
+i:rawFiles/HealthcareConcerns/H10.png:rawFiles/HealthcareConcerns/H10-15e640c6b2a388b3b277488d1e158fe0.png:49974:image/png:1
+i:rawFiles/HealthcareConcerns/H00.png:rawFiles/HealthcareConcerns/H00-d184ef09448eeebbfa05bb4f7a81f0ff.png:49832:image/png:1
+i:rawFiles/HealthcareConcerns/H100.png:rawFiles/HealthcareConcerns/H100-1b687cd846dff09049c3abc7697f4ca9.png:47650:image/png:1
+i:rawFiles/HealthcareConcerns/H30.png:rawFiles/HealthcareConcerns/H30-ee8f2714a923804f2d054856d90a21f0.png:49881:image/png:1
+i:rawFiles/HealthcareConcerns/H20.png:rawFiles/HealthcareConcerns/H20-83bb3036c920c68c1292b4d9b4a9c7d1.png:49942:image/png:1
+i:rawFiles/HealthcareConcerns/H50.png:rawFiles/HealthcareConcerns/H50-2e757e80d2a079f93af7ad20d35956ff.png:49400:image/png:1
+i:rawFiles/HealthcareConcerns/H90.png:rawFiles/HealthcareConcerns/H90-8eb8432d423de209483733d8400f087e.png:48307:image/png:1
+i:rawFiles/HealthcareConcerns/H80.png:rawFiles/HealthcareConcerns/H80-a049d8112846f188f117bc14d2205bed.png:48437:image/png:1
+i:rawFiles/HealthcareConcerns/H40.png:rawFiles/HealthcareConcerns/H40-9f8d95171ac8985058ca79e8232854a3.png:49812:image/png:1
+d:rawFiles/loadingFrameImages:rawFiles/loadingFrameImages:0:application/unknown:1
+i:rawFiles/loadingFrameImages/loading-10 (dragged).png:rawFiles/loadingFrameImages/loading-10 (dragged)-b88a8608ed19000a9d6bee9570210d11.png:1223:image/png:1
+i:rawFiles/loadingFrameImages/loading-2 (dragged).png:rawFiles/loadingFrameImages/loading-2 (dragged)-b89c393af8f5dc46d4b79fe5b24b6c11.png:1225:image/png:1
+i:rawFiles/loadingFrameImages/loading-29 (dragged).png:rawFiles/loadingFrameImages/loading-29 (dragged)-069bdbfac30572ff596c4117bb45ec51.png:1231:image/png:1
+i:rawFiles/loadingFrameImages/loading-14 (dragged).png:rawFiles/loadingFrameImages/loading-14 (dragged)-4f51bcc084ecba9d99548fa14637eb7a.png:1226:image/png:1
+i:rawFiles/loadingFrameImages/loading-6 (dragged).png:rawFiles/loadingFrameImages/loading-6 (dragged)-7e67638de7d28c6eda0caba6267530c0.png:1224:image/png:1
+i:rawFiles/loadingFrameImages/loading-13 (dragged).png:rawFiles/loadingFrameImages/loading-13 (dragged)-66488108473ed3ad8e45f90652c7cef3.png:1223:image/png:1
+i:rawFiles/loadingFrameImages/loading-1 (dragged).png:rawFiles/loadingFrameImages/loading-1 (dragged)-e03032738d77d1efd841de5ce875f173.png:1201:image/png:1
+i:rawFiles/loadingFrameImages/loading-17 (dragged).png:rawFiles/loadingFrameImages/loading-17 (dragged)-953c6b14483fbdb52d15ab8d06acee3b.png:1224:image/png:1
+i:rawFiles/loadingFrameImages/loading-5 (dragged).png:rawFiles/loadingFrameImages/loading-5 (dragged)-f604d2cc569b1f3fe3953c88b341fdd5.png:1225:image/png:1
+i:rawFiles/loadingFrameImages/loading-24 (dragged).png:rawFiles/loadingFrameImages/loading-24 (dragged)-72359c94ee1e20a4fcc91c2006d7746e.png:1246:image/png:1
+i:rawFiles/loadingFrameImages/loading-33 (dragged).png:rawFiles/loadingFrameImages/loading-33 (dragged)-712d294c503494135fc4ee676509b6db.png:1254:image/png:1
+i:rawFiles/loadingFrameImages/loading-19 (dragged).png:rawFiles/loadingFrameImages/loading-19 (dragged)-ce295b1658d3ec424a1494381160b24c.png:1202:image/png:1
+i:rawFiles/loadingFrameImages/loading-20 (dragged).png:rawFiles/loadingFrameImages/loading-20 (dragged)-b0ac0afa24fbe32a6f32819328e9bafe.png:1250:image/png:1
+i:rawFiles/loadingFrameImages/loading-30 (dragged).png:rawFiles/loadingFrameImages/loading-30 (dragged)-c712ce61d3ec488736c4caca6be8acf4.png:1235:image/png:1
+i:rawFiles/loadingFrameImages/loading-27 (dragged).png:rawFiles/loadingFrameImages/loading-27 (dragged)-a6699fc37315f39c4fb5bb27c0076713.png:1230:image/png:1
+i:rawFiles/loadingFrameImages/loading-23 (dragged).png:rawFiles/loadingFrameImages/loading-23 (dragged)-8e2a847da429330b3d27b9eb540ed1ac.png:1253:image/png:1
+i:rawFiles/loadingFrameImages/loading-8 (dragged).png:rawFiles/loadingFrameImages/loading-8 (dragged)-f4d8a65555d5ffdb5db2815c658ec2f4.png:1224:image/png:1
+i:rawFiles/loadingFrameImages/loading-34 (dragged).png:rawFiles/loadingFrameImages/loading-34 (dragged)-cd0037ccb1a52b0410b0f7e2fcfa2862.png:1250:image/png:1
+i:rawFiles/loadingFrameImages/loading-9 (dragged).png:rawFiles/loadingFrameImages/loading-9 (dragged)-750fae6546947271842bae845ded7b8e.png:1223:image/png:1
+i:rawFiles/loadingFrameImages/loading-35 (dragged).png:rawFiles/loadingFrameImages/loading-35 (dragged)-56989032ee82645b2095473aab163417.png:1242:image/png:1
+i:rawFiles/loadingFrameImages/loading-22 (dragged).png:rawFiles/loadingFrameImages/loading-22 (dragged)-3ef15926dfb4e78e664f800d098a2dc7.png:1250:image/png:1
+i:rawFiles/loadingFrameImages/loading-26 (dragged).png:rawFiles/loadingFrameImages/loading-26 (dragged)-4a61dff5c39854a5b72ef49b56f4fe3b.png:1233:image/png:1
+i:rawFiles/loadingFrameImages/loading-31 (dragged).png:rawFiles/loadingFrameImages/loading-31 (dragged)-859083bbb7e7c86890ae0a0076d6282a.png:1236:image/png:1
+i:rawFiles/loadingFrameImages/loading-21 (dragged).png:rawFiles/loadingFrameImages/loading-21 (dragged)-be63706c4190fa1f3a96a3f40d6dd3a9.png:1256:image/png:1
+i:rawFiles/loadingFrameImages/loading-36 (dragged).png:rawFiles/loadingFrameImages/loading-36 (dragged)-69b6027cc49b0fef39c8f67fdc72737f.png:1242:image/png:1
+i:rawFiles/loadingFrameImages/loading-18 (dragged).png:rawFiles/loadingFrameImages/loading-18 (dragged)-a6d1002cd96fb3e839debfceb0477051.png:1223:image/png:1
+i:rawFiles/loadingFrameImages/loading-32 (dragged).png:rawFiles/loadingFrameImages/loading-32 (dragged)-c939a95f99df2de4317d9401672400d4.png:1250:image/png:1
+i:rawFiles/loadingFrameImages/loading-25 (dragged).png:rawFiles/loadingFrameImages/loading-25 (dragged)-9e0871481c573489e057c8066ea3f66e.png:1229:image/png:1
+i:rawFiles/loadingFrameImages/loading-4 (dragged).png:rawFiles/loadingFrameImages/loading-4 (dragged)-9ddfe07430ed83370d152c1732cd3ca3.png:1225:image/png:1
+i:rawFiles/loadingFrameImages/loading-16 (dragged).png:rawFiles/loadingFrameImages/loading-16 (dragged)-ab5bd2c40859da5ea9ccd7cd21939803.png:1225:image/png:1
+i:rawFiles/loadingFrameImages/loading-12 (dragged).png:rawFiles/loadingFrameImages/loading-12 (dragged)-aac1fcbbe2ec56e024218a475d03af86.png:1223:image/png:1
+i:rawFiles/loadingFrameImages/loading-7 (dragged).png:rawFiles/loadingFrameImages/loading-7 (dragged)-88900d45a3f49dbf79ea762173633185.png:1222:image/png:1
+i:rawFiles/loadingFrameImages/loading-15 (dragged).png:rawFiles/loadingFrameImages/loading-15 (dragged)-994f60a2ca6c079c7fda1eb93f1d0f5c.png:1226:image/png:1
+i:rawFiles/loadingFrameImages/loading-28 (dragged).png:rawFiles/loadingFrameImages/loading-28 (dragged)-04512d1904fa0c76e2b76e46eaf8f5ac.png:1222:image/png:1
+i:rawFiles/loadingFrameImages/loading-3 (dragged).png:rawFiles/loadingFrameImages/loading-3 (dragged)-a582e67733d6aac86031b97416f43ebe.png:1225:image/png:1
+i:rawFiles/loadingFrameImages/loading-11 (dragged).png:rawFiles/loadingFrameImages/loading-11 (dragged)-5876bf49544427466649d45060f82845.png:1222:image/png:1
+d:skinComposer:skinComposer:0:application/unknown:1
+b:skinComposer/Untitled.scmp:skinComposer/Untitled-870789e5b6209055b942f19fabe0d770.scmp:38674:application/unknown:1
+d:skinComposer/Untitled_data:skinComposer/Untitled_data:0:application/unknown:1
+d:audio:audio:0:application/unknown:1
+a:audio/cultural.mp3:audio/cultural-4668bff77bb27977c30373504f4d1f3f.mp3:5523467:audio/mpeg:1
+a:audio/cardShuffle.mp3:audio/cardShuffle-c6a9878cbb73529bb04ecfd6e834107a.mp3:7102:audio/mpeg:1
+a:audio/bad.mp3:audio/bad-4401c1f3fd5f277b614a1345d1b53abc.mp3:5378644:audio/mpeg:1
+a:audio/military.mp3:audio/military-bcf19415ddb609db573d9e14320c82e5.mp3:4610644:audio/mpeg:1
+a:audio/technology.mp3:audio/technology-8f925db6cbf762a83981bef38771da4f.mp3:3314135:audio/mpeg:1
+a:audio/environmental.mp3:audio/environmental-b3e3094327c56328707b19c6471cc60c.mp3:6011853:audio/mpeg:1
+a:audio/cardSlide.mp3:audio/cardSlide-fe2bc9a1cabe52d6baf4ceae8100b893.mp3:36499:audio/mpeg:1
+a:audio/background.mp3:audio/background-67ed079eabe12878d0e5517ba79fd4cd.mp3:2177494:audio/mpeg:1
+a:audio/yearCountSoundEffect.mp3:audio/yearCountSoundEffect-ab99bec90776a809cac8440c958a48e6.mp3:95533:audio/mpeg:1
+a:audio/medicine.mp3:audio/medicine-6a0dd3dadcebd8320a875b2662e08f98.mp3:5282723:audio/mpeg:1
+a:audio/outro.mp3:audio/outro-e363419d0b9eba446f21f419a8d893af.mp3:57104:audio/mpeg:1
+a:audio/tick.mp3:audio/tick-98d8e98639c7bed32716bbc0b3d9f5e6.mp3:13302:audio/mpeg:1
+a:audio/playing.mp3:audio/playing-9eb405eb1ac0a698e4f15c521982d437.mp3:4897155:audio/mpeg:1
+a:audio/neutral.mp3:audio/neutral-ed21eaecc7d90868786917076f054b6f.mp3:2547389:audio/mpeg:1
+t:assets.txt:assets-64f2686118260a980526790867631314.txt:17777:text/plain:1
+d:fonts:fonts:0:application/unknown:1
+b:fonts/vcr.ttf:fonts/vcr-2bcc6179795a201bfd5c77d5867cf681.ttf:24356:application/unknown:1
+b:fonts/Greenscr.ttf:fonts/Greenscr-93f3577aa8407f09361af6d624dd3221.ttf:21000:application/unknown:1
+b:fonts/setbackt.ttf:fonts/setbackt-f71d26da75620169906e2bb343cde17a.ttf:36808:application/unknown:1
+b:fonts/Dunkin.otf:fonts/Dunkin-00e610112e9a4b39f067fb06abebe13b.otf:33072:application/unknown:1
+b:fonts/typewcond.otf:fonts/typewcond-6247b859f11033ae3b3d960bd2073cc8.otf:20000:application/unknown:1
+d:archived:archived:0:application/unknown:1
+i:archived/headphones.png:archived/headphones-763280f3fab75a2ab58f46b9f96b267a.png:31566:image/png:1
+i:archived/No.png:archived/No-4ac85e55d35a016df4ff39432a654450.png:25662:image/png:1
+i:archived/2065.png:archived/2065-ad51b5c4fffa4f4f07fead68432903d0.png:827580:image/png:1
+i:archived/welcome3.png:archived/welcome3-9fbba04d3e65a3f86844f14d7820dfaf.png:557943:image/png:1
+i:archived/welcome2.png:archived/welcome2-845409df18835b5451dd62b85c8a85d8.png:562174:image/png:1
+i:archived/sampleCard.png:archived/sampleCard-8bca0eb96e11b248a781989f70ed71e8.png:328343:image/png:1
+i:archived/logo.png:archived/logo-f026281b5822bd4604abe7620419aef6.png:73074:image/png:1
+i:archived/2025.png:archived/2025-79f1833625c29051a9844390f4b50d50.png:827418:image/png:1
+i:archived/yeah.png:archived/yeah-9dc2b5ef22c82e1f1a08eb3045bc45c0.png:29009:image/png:1
+i:archived/mainBackground.png:archived/mainBackground-ed301c1bfda30f328e4aa0b2071c4cec.png:582146:image/png:1
+i:archived/epochsLogo.png:archived/epochsLogo-5f5f4aa333002d65d316bbe350d69b4c.png:114890:image/png:1
+t:archived/assets.txt:archived/assets-1c7e7a25d9887f315640bc12c08cdca5.txt:335:text/plain:1
+i:archived/ew.png:archived/ew-c844c4d5a90200ef69a48fac3934751f.png:2965943:image/png:1
+i:archived/mainLogo.png:archived/mainLogo-aee0904ec115fa030a770d231a436532.png:34917:image/png:1
+i:archived/2057.png:archived/2057-1025592c61ff97b49298c171f2bc3bf0.png:801148:image/png:1
+i:archived/backCard.jpg:archived/backCard-1ec707c07aef71097195cebec7b44066.jpg:30637:image/jpeg:1
+i:archived/2053.png:archived/2053-eca6f1eda1585670291003a13cd67615.png:786892:image/png:1
+i:archived/2045.png:archived/2045-67ae2199a8b0c4017a7f9831c2b65962.png:825036:image/png:1
+i:archived/welcome.png:archived/welcome-c9cae8d6b2a19b7dd58e9188564e3ee7.png:552976:image/png:1
+d:packedTextures:packedTextures:0:application/unknown:1
+i:packedTextures/medicineStatus.png:packedTextures/medicineStatus-9645f0d49e6cfbd0069ba9ac9002f9ca.png:213038:image/png:1
+t:packedTextures/technological.atlas:packedTextures/technological-3e857d5d471b00c5e0f98341782ada69.atlas:1384:application/unknown:1
+t:packedTextures/mainBgsLogos.atlas:packedTextures/mainBgsLogos-ea7049939b0fd58dab78baf0d644537a.atlas:693:application/unknown:1
+i:packedTextures/mainBgsLogos.png:packedTextures/mainBgsLogos-68109ebeb843ac5198ae69231269fe19.png:1202301:image/png:1
+i:packedTextures/settings.png:packedTextures/settings-8a4592597e5991dc98825da51d908a5f.png:14553:image/png:1
+i:packedTextures/health.png:packedTextures/health-7fed64b49e825d3eebeb9ed77acc4e1a.png:305235:image/png:1
+t:packedTextures/cultural.atlas:packedTextures/cultural-1aa344dfc487d24d999111d490937c1d.atlas:1395:application/unknown:1
+i:packedTextures/endingScreen.png:packedTextures/endingScreen-082bc15a10afd391696fdc7a737a403e.png:11925613:image/png:1
+t:packedTextures/dialogues.atlas:packedTextures/dialogues-f9c088bcde98591a728b57c5c2f29b05.atlas:93:application/unknown:1
+i:packedTextures/dialogues.png:packedTextures/dialogues-6cfac0c69f5b8794c34f85777b5a2a90.png:76575:image/png:1
+t:packedTextures/environmentalStatus.atlas:packedTextures/environmentalStatus-4c712d3a8cb384d02aae0bfb5195cb9f.atlas:372:application/unknown:1
+i:packedTextures/playingBgs.png:packedTextures/playingBgs-556664fce56ef3a238a620da118cdaa2.png:5701677:image/png:1
+t:packedTextures/foreground.atlas:packedTextures/foreground-f67aa682ee9d0a01e709ce876240a6bb.atlas:235:application/unknown:1
+t:packedTextures/playingBgs.atlas:packedTextures/playingBgs-41063d014b010959fb13c129b0fca9d4.atlas:303:application/unknown:1
+i:packedTextures/militaryStatus.png:packedTextures/militaryStatus-22dea491a9671bb7ed5bc0ce6f566129.png:197967:image/png:1
+t:packedTextures/culturalStatus.atlas:packedTextures/culturalStatus-8a28f797394e8f26baed031348ff6b43.atlas:367:application/unknown:1
+t:packedTextures/health.atlas:packedTextures/health-7a7648796ec06488be00e8da05081c5a.atlas:1409:application/unknown:1
+t:packedTextures/gameBackgrounds.atlas:packedTextures/gameBackgrounds-bb4eddf886732ee98b5959b69c478d14.atlas:286:application/unknown:1
+t:packedTextures/medicineStatus.atlas:packedTextures/medicineStatus-fdc84644c79a4ad0c651216fa99f8ae6.atlas:367:application/unknown:1
+i:packedTextures/technological.png:packedTextures/technological-998767d0588c2d64fa5656eaaf7df3d1.png:304557:image/png:1
+t:packedTextures/military.atlas:packedTextures/military-1dc6277ba2953a8e6161d4d9398a4711.atlas:1411:application/unknown:1
+t:packedTextures/technologicalStatus.atlas:packedTextures/technologicalStatus-1ec39385b3e3e4db1e0e5fe3ec61dbdf.atlas:372:application/unknown:1
+t:packedTextures/overAllStatusImage.atlas:packedTextures/overAllStatusImage-5ec76584071557585ef22b2321184c83.atlas:371:application/unknown:1
+i:packedTextures/cards.png:packedTextures/cards-e983a8b03d8cd9e46045e5b9ed233a96.png:7486343:image/png:1
+t:packedTextures/guideDialogues.atlas:packedTextures/guideDialogues-c5a3cb3d6da80b0b85bfeee3fe66d6ad.atlas:538:application/unknown:1
+i:packedTextures/environmental.png:packedTextures/environmental-f2baeb94f2f0a1d3d01dbcb8ef27eccc.png:317302:image/png:1
+i:packedTextures/overAllStatusImage.png:packedTextures/overAllStatusImage-67d5f95701fe7cef4277632709af89d2.png:208061:image/png:1
+i:packedTextures/gameBackgrounds.png:packedTextures/gameBackgrounds-e2cd6f51b31fcfb530b3bb0d50a09ceb.png:4963709:image/png:1
+i:packedTextures/military.png:packedTextures/military-721094beed3a61ea763665c4efa79182.png:310835:image/png:1
+t:packedTextures/cards.atlas:packedTextures/cards-3713a418a4d0f90faeb93309eb15c118.atlas:856:application/unknown:1
+i:packedTextures/technologicalStatus.png:packedTextures/technologicalStatus-6afba8162dbdc200177a721a21b8d77a.png:205940:image/png:1
+i:packedTextures/environmentalStatus.png:packedTextures/environmentalStatus-17322373dd73b6cd7ac3dc9ad3cf557a.png:196774:image/png:1
+t:packedTextures/endingScreen.atlas:packedTextures/endingScreen-73e56f4617495cab90b9b4458098b52d.atlas:314:application/unknown:1
+t:packedTextures/settings.atlas:packedTextures/settings-f9645afc135c2c7945e4b0dbdc126f4a.atlas:204:application/unknown:1
+t:packedTextures/loading.atlas:packedTextures/loading-c7e65cdd527168633aafe39e9e99cd1e.atlas:1637:application/unknown:1
+i:packedTextures/foreground.png:packedTextures/foreground-f13cd947ba4661ce283e5f0ac0a62ba3.png:356283:image/png:1
+i:packedTextures/cultural.png:packedTextures/cultural-9966dc6fb093404272a27cf9a65894fe.png:323372:image/png:1
+t:packedTextures/militaryStatus.atlas:packedTextures/militaryStatus-ea0aa12043ef7cc98244a5c57952c5d3.atlas:367:application/unknown:1
+i:packedTextures/loading.png:packedTextures/loading-d5d7e9baba60e38db0986058ce579610.png:186984:image/png:1
+i:packedTextures/culturalStatus.png:packedTextures/culturalStatus-ca5b1fb654fda2ede8e1c13fcce91263.png:215278:image/png:1
+t:packedTextures/environmental.atlas:packedTextures/environmental-4bb6fe74bcd23bad17ec66549405733a.atlas:1384:application/unknown:1
+i:packedTextures/guideDialogues.png:packedTextures/guideDialogues-6a1d172d0dad96a5ee113ff61e8b10a8.png:135098:image/png:1
+d:uiExports:uiExports:0:application/unknown:1
+t:uiExports/Greenscr(2).fnt:uiExports/Greenscr(2)-3adcf47bcd28d6cfecc9056fb0d9f717.fnt:24495:application/unknown:1
+i:uiExports/Untitled.png:uiExports/Untitled-b5b3e8a41799a48b9dd759dc6e9850fa.png:20145:image/png:1
+t:uiExports/Untitled.json:uiExports/Untitled-60614714415d0b8dd9a284dafbdc39ed.json:485:application/json:1
+t:uiExports/Untitled.atlas:uiExports/Untitled-95acd60acbbe22a5b2ad2ae5fc4101c7.atlas:184:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:default.fragment-e1c018bd48044c8b67c7bbc53145e540.glsl:5874:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:default.vertex-28b7e77ea3f282ebd5b066ba256692c3.glsl:9096:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:depth.fragment-8341d5ce47fc398da575c9e294b6821b.glsl:869:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:depth.vertex-98a450f1f747c05eedb7122779187316.glsl:2931:application/unknown:1
+t:com/badlogic/gdx/utils/lsans-15.fnt:lsans-15-5143ae9583bc43b1084f98062e054ae8.fnt:17711:application/unknown:1
+i:com/badlogic/gdx/utils/lsans-15.png:lsans-15-8e00ff5b9dd15a3c18c1eb75f68c695a.png:10270:image/png:1
